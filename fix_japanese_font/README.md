@@ -1,3 +1,5 @@
+# Inertial Drift Japanese font fix
+
 # 概要
 
 Inertial Driftに不足している字体を再定義し、フォントのガタつきを修正します。
