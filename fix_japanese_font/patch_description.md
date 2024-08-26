@@ -1,4 +1,4 @@
-# Inertial Drift Japanese font fix
+# Inertial Drift Japanese font fix _YYYY-MM-DD
 
 # 概要
 
