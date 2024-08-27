@@ -5,8 +5,41 @@
 - 日本語訳上書き + フォントグリフ修正パッチ
 - フォントグリフ修正パッチ
 
-いずれも[リリースページ](https://github.com/epser/inertial_drift_improve_japanese/releases/)からダウンロード可能です。
+修正範囲に応じて2パターンあり、どちらも[リリースページ](https://github.com/epser/inertial_drift_improve_japanese/releases/)からダウンロード可能です。
 
-## 外部リンク
+## 日本語訳修正のプレビュー
 
-- 誤訳指摘の抜粋 https://eps-r.gitbook.io/inertial_drift
+- 誤訳指摘の抜粋ページ https://eps-r.gitbook.io/inertial_drift
+  - 指摘に併記している試訳はパッチ内容と異なる場合があります。
+
+## 字体修正のプレビュー
+
+### グリフ修正: 漢字
+
+Before:
+
+![image](https://github.com/user-attachments/assets/8ff4489a-fe97-497c-b5d3-bcc25645bc58)
+
+After:
+
+![image](https://github.com/user-attachments/assets/11e74e61-c463-43b4-9f45-d1ac4916b805)
+
+### グリフ修正: 数字（画面中央のスコア表示）
+
+Before:
+
+![GULYNvuaAAAj6yN](https://github.com/user-attachments/assets/dd14931c-412b-4ff0-9c80-f3e592c70111)
+
+After:
+
+![image](https://github.com/user-attachments/assets/68b56919-0af5-43d8-9bee-00482a525dde)
+
+### グリフ修正: アルファベット（GAME SETTINGSのIとN）
+
+Before:
+
+![image](https://github.com/user-attachments/assets/07377c89-7333-4ce5-997a-241f64ffc226)
+
+After:
+
+![image](https://github.com/user-attachments/assets/7276726a-b2d0-4847-8734-57940e23534f)
