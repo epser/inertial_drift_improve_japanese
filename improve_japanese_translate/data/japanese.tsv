@@ -1,9 +1,9 @@
 Identifier	Filename	Japanese
 f130783d-9414-480f-b233-13d0d7496e3d	LanguageString-resources.assets-35212.json	日本語(Unofficial)
-66d2ebda-2fa2-41a2-af8a-b392e401321a	DarkEasyCarLongDescription-resources.assets-35213.json	アシスト運転機能を備えたテラの "Racing Artificial Intelligence"。このレーシングAIが、ドライバーを育成するための最も安定したプラットフォームを提供する。
+66d2ebda-2fa2-41a2-af8a-b392e401321a	DarkEasyCarLongDescription-resources.assets-35213.json	アシスト運転機能を備えたテラの "Racing Artificial Intelligence"。レーシングAIが、ドライバーを育成するための最も安定したプラットフォームを提供する。
 4b6f873f-4bc2-4526-a680-c17a4dcd707f	DarkExpertCarLongDescription-resources.assets-35214.json	さまざまなパーツを雑多に寄せ集めたこのカスタムビルドマシンは、ベース車両とは似ても似つかぬ風貌となった。
 05c58720-1c63-43e5-95e0-3aa080746426	DarkHardCarLongDescription-resources.assets-35215.json	品が無いと評する者が居たとしても、その優れた結果に議論の余地はない。強大なパワーがこの車をポピュラー・チョイスに押し上げているのだ。
-ba5c8c6a-9cf4-410e-8c77-3cb2d3313923	DarkMediumCarLongDescription-resources.assets-35216.json	ハイグリップなスーパーカー。トラックデイにサーキットへと通うアマチュアドライバーの間で特に人気を博している。
+ba5c8c6a-9cf4-410e-8c77-3cb2d3313923	DarkMediumCarLongDescription-resources.assets-35216.json	ハイグリップなスーパーカー。トラックデイにサーキットへと通う、アマチュアドライバーの間で人気を博している。
 b01f1e03-540b-4a7f-a53d-1559a3d6b867	EasyCarLongDescription-resources.assets-35217.json	テラ・デザインの送るスポーティモデル・ダート。そのコンパクトなライトウェイトフレームは、クラス随一の反応性と扱いやすさを実現する。
 181bb2da-b916-408b-a11a-0236e8ec852c	EasyCarShortDescription-resources.assets-35218.json	クイック・アンド・レスポンシヴ
 5fac3038-c97c-468f-8906-a2dff6eb1ab2	ExpertCarLongDescription-resources.assets-35219.json	パワーと加速の弱さにより評論家からの評価は低いコーダ・クロノ。だが驚異的なトップスピードを扱える熟練レーサーの間では熱狂的な支持を得ている。
@@ -337,7 +337,7 @@ EasyArea1Race3e3d0	EasyArea1Race3e3d0-resources.assets-35547.json	ねえ、相�
 EasyArea1Race3e4d0	EasyArea1Race3e4d0-resources.assets-35548.json	えっ...そ、そうだったかな...
 EasyArea1Race3e5d0	EasyArea1Race3e5d0-resources.assets-35549.json	彼女の車には必要ない操作だと思うけど、 面白いよね...
 EasyArea1Race3e5d1	EasyArea1Race3e5d1-resources.assets-35550.json	もっとアクセルを踏み続けていれば、スピードを保ったまま、よりハードなコーナリングが――
-EasyArea1Race3e6d0	EasyArea1Race3e6d0-resources.assets-35551.json	お前は深く考えすぎだよ。いつもお勉強ばかりしてたら、どうやって楽しめばいいんだ？
+EasyArea1Race3e6d0	EasyArea1Race3e6d0-resources.assets-35551.json	お前は深く考えすぎだよ。いつも勉強ばかりで、どうやって楽しむってんだ？
 EasyArea1Race3e7d0	EasyArea1Race3e7d0-resources.assets-35552.json	じゅうぶん楽しんでるよ！　他の人がどう運転しているかを見て学ぶ、<b>それ</b>が楽しいの！
 EasyArea1Race3e7d1	EasyArea1Race3e7d1-resources.assets-35553.json	とにかく、{T1E}とレースするならアクセルを踏み続けよう、ってことだよ。
 EasyArea1Race3e8d0	EasyArea1Race3e8d0-resources.assets-35554.json	おう。それはできると思うぜ。
@@ -355,7 +355,7 @@ EasyArea2Completee4d1	EasyArea2Completee4d1-resources.assets-35565.json	言っ�
 EasyArea2Completee5d0	EasyArea2Completee5d0-resources.assets-35566.json	しばらくは、楽しさよりストレスの方がデカかったぜ...
 EasyArea2Completee5d1	EasyArea2Completee5d1-resources.assets-35567.json	まあ、お前の言う通り、楽しかったと思うよ。色々なことを覚えたし、{T2E}に認められたのは嬉しかった。
 EasyArea2Completee5d2	EasyArea2Completee5d2-resources.assets-35568.json	まずはちゃんと練習してから、って教訓もあったな！
-EasyArea2Completee6d0	EasyArea2Completee6d0-resources.assets-35569.json	うん、いい
+EasyArea2Completee6d0	EasyArea2Completee6d0-resources.assets-35569.json	うん、いい感じね。
 EasyArea2Race1e1d0	EasyArea2Race1e1d0-resources.assets-35570.json	さーて。ここでは誰とレースできるかな？
 EasyArea2Race1e2d0	EasyArea2Race1e2d0-resources.assets-35571.json	待ちなよ{easy}！　先に練習したほうがいいんじゃない？
 EasyArea2Race1e3d0	EasyArea2Race1e3d0-resources.assets-35572.json	練習なんてつまんねーーよ...あと、他の奴とレースするのが最適な学習法だとか言ってなかった？
@@ -436,13 +436,13 @@ EasyArea3Race3e3d2	EasyArea3Race3e3d2-resources.assets-35646.json	オレもで�
 EasyArea3Race3e4d0	EasyArea3Race3e4d0-resources.assets-35647.json	シカトなさい！
 EasyArea3Race3e4d1	EasyArea3Race3e4d1-resources.assets-35648.json	私にはスタイルがほとんど全てだけど、同じくらいレースも好きなの。{hard}や誰かのために、あなたのレースが台無しになるのはイヤよ。
 EasyArea3Race3e4d2	EasyArea3Race3e4d2-resources.assets-35649.json	焦らず時間をかけて、<b>あなたの</b>準備ができたと思った時に、{T1M}に挑めばいいの。
-EasyArea3Race3e4d3	EasyArea3Race3e4d3-resources.assets-35650.json	物事を嫌いになるには、人生は短すぎるでしょ。
+EasyArea3Race3e4d3	EasyArea3Race3e4d3-resources.assets-35650.json	嫌いなことをするには、人生は短すぎるでしょ。
 EasyArea3Race3e5d0	EasyArea3Race3e5d0-resources.assets-35651.json	レースの準備はできた？
 EasyArea3Race3e5d1	EasyArea3Race3e5d1-resources.assets-35652.json	僕のほうは、まだ新しいコースに慣れきってないけど...
 EasyArea3Race3e5d2	EasyArea3Race3e5d2-resources.assets-35653.json	でも遠慮するつもりはないし、君も遠慮しなくていいよ！
 EasyArea3Race3e6d0	EasyArea3Race3e6d0-resources.assets-35654.json	ああ、準備ね...
 EasyArea3Race3e6d1	EasyArea3Race3e6d1-resources.assets-35655.json	もちろん、できてる！　シュッと視界から消えてやるぜ！
-EasyArea4Completee10d0	EasyArea4Completee10d0-resources.assets-35656.json	いいよ。この旅で何をしたかったのか、オレ自身が見えてなかっただけだ...
+EasyArea4Completee10d0	EasyArea4Completee10d0-resources.assets-35656.json	いいんだよ。この旅で何をしたかったのか、オレ自身が見えてなかっただけだ...
 EasyArea4Completee10d1	EasyArea4Completee10d1-resources.assets-35657.json	今なら分かると思うし、最後のコースはめいっぱい楽しむつもりだぜ。
 EasyArea4Completee1d0	EasyArea4Completee1d0-resources.assets-35658.json	ウチを負かすなんて信じらんない！　もう一回やろうよ！
 EasyArea4Completee1d1	EasyArea4Completee1d1-resources.assets-35659.json	もうちょっと練習したら、すぐにでもさ...
@@ -478,7 +478,7 @@ EasyArea4Race1e9d0	EasyArea4Race1e9d0-resources.assets-35688.json	よし、{easy
 EasyArea4Race2e1d0	EasyArea4Race2e1d0-resources.assets-35689.json	このコースはとりわけヤバいな！　ミスできるゆとりがどこにも無え！
 EasyArea4Race2e1d1	EasyArea4Race2e1d1-resources.assets-35690.json	オレやれるのかな、{medium}...
 EasyArea4Race2e2d0	EasyArea4Race2e2d0-resources.assets-35691.json	うーん、まさに挑戦だね...
-EasyArea4Race2e2d1	EasyArea4Race2e2d1-resources.assets-35692.json	さらに辛いのは、私たちにはお手本にできる人があまり居ないってこと...
+EasyArea4Race2e2d1	EasyArea4Race2e2d1-resources.assets-35692.json	さらに厳しいのは、私たちにはお手本にできる人があまり居ないってこと...
 EasyArea4Race2e2d2	EasyArea4Race2e2d2-resources.assets-35693.json	{easy}、私のゴーストを追ってみる？　上級者じゃないけど、何かの役に立つかも。
 EasyArea4Race2e2d3	EasyArea4Race2e2d3-resources.assets-35694.json	あとは、{T1E}に会ったよね？　あの子から何か教わっていけるかもよ。
 EasyArea4Race2e3d0	EasyArea4Race2e3d0-resources.assets-35695.json	今はお勉強したくねえよ。楽しくなるはずだったのに...
@@ -496,7 +496,7 @@ EasyArea4Race3e4d0	EasyArea4Race3e4d0-resources.assets-35706.json	いや、そ�
 EasyArea4Race3e5d0	EasyArea4Race3e5d0-resources.assets-35707.json	なんだって!?
 EasyArea4Race3e5d1	EasyArea4Race3e5d1-resources.assets-35708.json	{easy}、このイベントは大きなチャンスなんだ...努力しなきゃ台無しになっちまうんだぞ。
 EasyArea4Race3e5d2	EasyArea4Race3e5d2-resources.assets-35709.json	僕は君の半分の才能もないけど、これまでずっと頑張ってきた...
-EasyArea4Race3e5d3	EasyArea4Race3e5d3-resources.assets-35710.json	いいか、君は僕の半分でも努力すれば、素晴らしいレーサーになれるんだよ！
+EasyArea4Race3e5d3	EasyArea4Race3e5d3-resources.assets-35710.json	君はその半分でも努力すれば、素晴らしいレーサーになれるんだよ！
 EasyArea4Race3e6d0	EasyArea4Race3e6d0-resources.assets-35711.json	知らねーよ！　オレはずっと言ってただろ、自分が楽しむためにここに来たんだって...
 EasyArea4Race3e6d1	EasyArea4Race3e6d1-resources.assets-35712.json	お前様が一生懸命にやってきたのは認めるけどさ、それはお前のやりたいことだったからだ。お前の夢だったからだ。
 EasyArea4Race3e6d2	EasyArea4Race3e6d2-resources.assets-35713.json	オレはそういうのはやりたくねえよ、{hard}...お前のやり方はもうやめだ。
@@ -577,13 +577,13 @@ ExpertArea1Race1e2d0	ExpertArea1Race1e2d0-resources.assets-35787.json	ついに{
 ExpertArea1Race1e2d1	ExpertArea1Race1e2d1-resources.assets-35788.json	ちゃんと乗りこなせるかは、私次第だけどね。
 ExpertArea1Race1e3d0	ExpertArea1Race1e3d0-resources.assets-35789.json	ついに見つけたのか...ははっ、苦節数年だな！
 ExpertArea1Race1e3d1	ExpertArea1Race1e3d1-resources.assets-35790.json	ちょっとクセのある車種だったよね？　その辺は評判通り？
-ExpertArea1Race1e4d0	ExpertArea1Race1e4d0-resources.assets-35791.json	確かに、集中は必要ね。
-ExpertArea1Race1e4d1	ExpertArea1Race1e4d1-resources.assets-35792.json	まるでセイフティが全部切られているみたい。
+ExpertArea1Race1e4d0	ExpertArea1Race1e4d0-resources.assets-35791.json	確かに、集中は必要だね。
+ExpertArea1Race1e4d1	ExpertArea1Race1e4d1-resources.assets-35792.json	まるでセイフティが全部切られてるみたい。
 ExpertArea1Race1e4d2	ExpertArea1Race1e4d2-resources.assets-35793.json	他の車よりも急激に曲がれるけれど、もし、やりすぎたら...
 ExpertArea1Race1e5d0	ExpertArea1Race1e5d0-resources.assets-35794.json	スピンして茂みに突っ込んじゃうこともある？
 ExpertArea1Race1e6d0	ExpertArea1Race1e6d0-resources.assets-35795.json	そんな感じ！
 ExpertArea1Race1e7d0	ExpertArea1Race1e7d0-resources.assets-35796.json	なるほど、注意したほうが良さそうだ...
-ExpertArea1Race1e7d1	ExpertArea1Race1e7d1-resources.assets-35797.json	もしどこかで時間があれば、助手席に乗せてもらってもいいかな？
+ExpertArea1Race1e7d1	ExpertArea1Race1e7d1-resources.assets-35797.json	もし時間があるなら、助手席に乗せてもらってもいいかな？
 ExpertArea1Race1e8d0	ExpertArea1Race1e8d0-resources.assets-35798.json	もちろん！　スタイルランにしましょ、どんな車か見せてあげる。
 ExpertArea1Race1e9d0	ExpertArea1Race1e9d0-resources.assets-35799.json	ははっ、なぜか急に怖くなってきたな...
 ExpertArea1Race2e1d0	ExpertArea1Race2e1d0-resources.assets-35800.json	いやあ、ゾクゾクするほど爽快だったよ...
@@ -611,7 +611,7 @@ ExpertArea1Race3e5d1	ExpertArea1Race3e5d1-resources.assets-35821.json	ここの�
 ExpertArea1Race3e6d0	ExpertArea1Race3e6d0-resources.assets-35822.json	確か、{T1ExGoldTime}秒。
 ExpertArea1Race3e7d0	ExpertArea1Race3e7d0-resources.assets-35823.json	そんなもの？　私やみんなでも更新できそうね...
 ExpertArea2Completee1d0	ExpertArea2Completee1d0-resources.assets-35824.json	倒せなかった...
-ExpertArea2Completee2d0	ExpertArea2Completee2d0-resources.assets-35825.json	勝ちはしなかったが、あんな速さでコーナーを突破する奴など、今までに見たことがない...
+ExpertArea2Completee2d0	ExpertArea2Completee2d0-resources.assets-35825.json	俺を上回りはしなかったが、あんな速さでコーナーを突破する奴など、今までに見たことがない...
 ExpertArea2Completee2d1	ExpertArea2Completee2d1-resources.assets-35826.json	こちらに最上級の加速力が無かったなら、絶対に先頭には居られなかった。
 ExpertArea2Completee3d0	ExpertArea2Completee3d0-resources.assets-35827.json	俺は夢でも見ていたのか？　本当にあんな速さでコーナーを突破する奴など、見たことがない...
 ExpertArea2Completee4d0	ExpertArea2Completee4d0-resources.assets-35828.json	夢じゃねえ、本物さ。
@@ -642,7 +642,7 @@ ExpertArea2Race2e5d1	ExpertArea2Race2e5d1-resources.assets-35852.json	簡単に�
 ExpertArea2Race2e5d2	ExpertArea2Race2e5d2-resources.assets-35853.json	ともかくコースを研究して、彼の無視できないタイムを出してみせる。
 ExpertArea2Race2e6d0	ExpertArea2Race2e6d0-resources.assets-35854.json	このコースは前回よりずっと速いよね、{expert}。怖くなったりしないの？
 ExpertArea2Race2e7d0	ExpertArea2Race2e7d0-resources.assets-35855.json	全然！　十分に速く走っていれば、ドライバーが壁を怖がるよりも、壁のほうがドライバーを怖がっちゃうの...
-ExpertArea2Race2e7d1	ExpertArea2Race2e7d1-resources.assets-35856.json	だから、ただ歯を食いしばって頑張っていくしかないのよ。
+ExpertArea2Race2e7d1	ExpertArea2Race2e7d1-resources.assets-35856.json	だから、ただ歯を食いしばって頑張るしかないってわけ。
 ExpertArea2Race2e8d0	ExpertArea2Race2e8d0-resources.assets-35857.json	それって、安心させるにはちょっと違う話じゃないかな...でも、私も頑張るね。
 ExpertArea2Race3e1d0	ExpertArea2Race3e1d0-resources.assets-35858.json	だいぶクレイジーにぶっ飛ばしてるじゃねえか、{expert}。
 ExpertArea2Race3e1d1	ExpertArea2Race3e1d1-resources.assets-35859.json	ミスってケガでもするんじゃねえかって、ヒヤヒヤしたぜ。
@@ -658,10 +658,10 @@ ExpertArea3Completee1d0	ExpertArea3Completee1d0-resources.assets-35868.json	す�
 ExpertArea3Completee2d0	ExpertArea3Completee2d0-resources.assets-35869.json	しかも、{T3Ex}のホームでだよ！　感動しちゃう。
 ExpertArea3Completee3d0	ExpertArea3Completee3d0-resources.assets-35870.json	{expert}、やったな！
 ExpertArea3Completee4d0	ExpertArea3Completee4d0-resources.assets-35871.json	しかも、{T3Ex}のホームでだよ！　感動しちゃう。
-ExpertArea3Completee5d0	ExpertArea3Completee5d0-resources.assets-35872.json	サマーグランプリでまた2人のレースが見られるなんて、今から待ちきれないよ。
+ExpertArea3Completee5d0	ExpertArea3Completee5d0-resources.assets-35872.json	サマーグランプリでも2人のレースが見られるなんて、今から待ちきれないよ。
 ExpertArea3Completee6d0	ExpertArea3Completee6d0-resources.assets-35873.json	みんな応援ありがとう。レースの間、本当に助けられた。
 ExpertArea3Completee7d0	ExpertArea3Completee7d0-resources.assets-35874.json	これなら、今年はガチにやり合えそうだね、{expert}。
-ExpertArea3Completee7d1	ExpertArea3Completee7d1-resources.assets-35875.json	くれぐれも、グランプリの前に無理なんかするんじゃないよ。いい？
+ExpertArea3Completee7d1	ExpertArea3Completee7d1-resources.assets-35875.json	くれぐれもグランプリの前に無理なんかするんじゃないよ。いい？
 ExpertArea3Completee7d2	ExpertArea3Completee7d2-resources.assets-35876.json	始まりもしないうちからプレッシャーで潰れる対戦相手なんて、アタシは嫌だからね！
 ExpertArea3Completee8d0	ExpertArea3Completee8d0-resources.assets-35877.json	心配しないで、万全にするから。
 ExpertArea3Race1e10d0	ExpertArea3Race1e10d0-resources.assets-35878.json	ええ、気をつける。
@@ -673,10 +673,10 @@ ExpertArea3Race1e3d0	ExpertArea3Race1e3d0-resources.assets-35883.json	今年は�
 ExpertArea3Race1e3d1	ExpertArea3Race1e3d1-resources.assets-35884.json	この調子なら、{Track5}のコースレコードだってぶち抜けるだろうな。
 ExpertArea3Race1e4d0	ExpertArea3Race1e4d0-resources.assets-35885.json	へぇ、{exprt}。今年はレコードを破る気でいるの？
 ExpertArea3Race1e5d0	ExpertArea3Race1e5d0-resources.assets-35886.json	ええ、目標にしてる...その前にやるべきことが沢山あるけど。
-ExpertArea3Race1e6d0	ExpertArea3Race1e6d0-resources.assets-35887.json	だったらアタシも腕を磨かなくちゃ...置いてかれたら、今更たまらないからね？
+ExpertArea3Race1e6d0	ExpertArea3Race1e6d0-resources.assets-35887.json	だったらアタシも腕を磨かなくちゃ...今さら置いてかれたら、たまらないからね？
 ExpertArea3Race1e7d0	ExpertArea3Race1e7d0-resources.assets-35888.json	{T3Ex}ってのは、見るからに手強い相手だな。大丈夫か？
 ExpertArea3Race1e8d0	ExpertArea3Race1e8d0-resources.assets-35889.json	間違いなく、私が知る中で最強の相手だね...
-ExpertArea3Race1e8d1	ExpertArea3Race1e8d1-resources.assets-35890.json	でも心配しないで！　勝つ見込みはあるの。
+ExpertArea3Race1e8d1	ExpertArea3Race1e8d1-resources.assets-35890.json	でも心配しないで！　勝つ見込みはある。
 ExpertArea3Race1e8d2	ExpertArea3Race1e8d2-resources.assets-35891.json	友達付き合いも長いし、彼女のテクは全部知ってるから。
 ExpertArea3Race1e9d0	ExpertArea3Race1e9d0-resources.assets-35892.json	あいつに勝つためだからって、無理はすんなよ。いいか？
 ExpertArea3Race1e9d1	ExpertArea3Race1e9d1-resources.assets-35893.json	もし、ここら辺のコーナーでやらかしちまったら...要は、下までは長いってことだ、{expert}。
@@ -704,16 +704,16 @@ ExpertArea3Race3e12d0	ExpertArea3Race3e12d0-resources.assets-35914.json	{expert}
 ExpertArea3Race3e13d0	ExpertArea3Race3e13d0-resources.assets-35915.json	大丈夫...ただ、もし勝てなかったら、みんなをがっかりさせるかもって思っただけ。
 ExpertArea3Race3e14d0	ExpertArea3Race3e14d0-resources.assets-35916.json	あいつらは、あんたを好きな、あんたの友達でしょ！　分かってるはずさ、どうなったって背中を押してくれる連中だって。
 ExpertArea3Race3e15d0	ExpertArea3Race3e15d0-resources.assets-35917.json	そうね、あなたの言う通りだと思う...
-ExpertArea3Race3e15d1	ExpertArea3Race3e15d1-resources.assets-35918.json	レースに集中してみるよ。ここは全力を出していかないとね...
+ExpertArea3Race3e15d1	ExpertArea3Race3e15d1-resources.assets-35918.json	今はレースに集中するよ。ここは全力を出していかないと...
 ExpertArea3Race3e1d0	ExpertArea3Race3e1d0-resources.assets-35919.json	さて、お役に立てたならいいけれど？
 ExpertArea3Race3e2d0	ExpertArea3Race3e2d0-resources.assets-35920.json	役に立ったよ！　角度を小さくしろって話も納得できた。オーバードリフトは失速しやすいからね。
 ExpertArea3Race3e2d1	ExpertArea3Race3e2d1-resources.assets-35921.json	もっと精度を上げるのが課題だけど、何とかやってみる。
 ExpertArea3Race3e3d0	ExpertArea3Race3e3d0-resources.assets-35922.json	ちょっと待って...あなたには、他にやるべき課題があるみたいね...
-ExpertArea3Race3e4d0	ExpertArea3Race3e4d0-resources.assets-35923.json	そうだよ{expert}、あんたの実力を一日中観察させてもらった...さあ、レースしようか！
+ExpertArea3Race3e4d0	ExpertArea3Race3e4d0-resources.assets-35923.json	そうだよ{expert}、あんたの力を一日じゅう見させてもらった...さあ、レースしようか！
 ExpertArea3Race3e5d0	ExpertArea3Race3e5d0-resources.assets-35924.json	ここで？　{T3Ex}のホームコースでしょ...満足な勝負にならないかも。
 ExpertArea3Race3e6d0	ExpertArea3Race3e6d0-resources.assets-35925.json	もう、どうしたの{expert}！　弱気すぎよ。ただのお楽しみの、何が問題なの？
 ExpertArea3Race3e7d0	ExpertArea3Race3e7d0-resources.assets-35926.json	{T3E}は、タダでお楽しみを見るために何でもするタイプでしょう？
-ExpertArea3Race3e8d0	ExpertArea3Race3e8d0-resources.assets-35927.json	だって、たまらないんだもの...あなたたち2人のレースって、いつも爆発的で。
+ExpertArea3Race3e8d0	ExpertArea3Race3e8d0-resources.assets-35927.json	だって、たまらないんだもの...あなたたち2人のレースはいつも、はち切れそうに刺激的で。
 ExpertArea3Race3e9d0	ExpertArea3Race3e9d0-resources.assets-35928.json	待って、{expert}と{T3Ex}がレースするの!?　すごいことになっちゃう...
 ExpertArea3Race3e9d1	ExpertArea3Race3e9d1-resources.assets-35929.json	他のみんなも呼んだ方がいいよね？　こんなこと知ったら、きっと見逃せないよ。
 ExpertArea4Completee10d0	ExpertArea4Completee10d0-resources.assets-35930.json	ありがと、{T4Ex}。あなたが良ければ、いつでも私たちとレースしましょう。
@@ -723,8 +723,8 @@ ExpertArea4Completee2d0	ExpertArea4Completee2d0-resources.assets-35933.json	あ�
 ExpertArea4Completee3d0	ExpertArea4Completee3d0-resources.assets-35934.json	やったな、{expert}！
 ExpertArea4Completee3d1	ExpertArea4Completee3d1-resources.assets-35935.json	ほら、心配することなんか無かっただろ。
 ExpertArea4Completee4d0	ExpertArea4Completee4d0-resources.assets-35936.json	ええ、自分にプレッシャーを掛けすぎてたのかもしれない...
-ExpertArea4Completee4d1	ExpertArea4Completee4d1-resources.assets-35937.json	結局のところ、勝利はうれしいボーナスでしかなくて、勝つこと自体が大切ってわけじゃなかったのね。
-ExpertArea4Completee5d0	ExpertArea4Completee5d0-resources.assets-35938.json	それじゃあ、こっからは余生をのんびり過ごすかい？
+ExpertArea4Completee4d1	ExpertArea4Completee4d1-resources.assets-35937.json	結局のところ、勝利はうれしいボーナスでしかなくて、勝つこと自体が大切ってわけじゃなかったんだ。
+ExpertArea4Completee5d0	ExpertArea4Completee5d0-resources.assets-35938.json	だったら、こっからは余生をのんびり過ごすかい？
 ExpertArea4Completee6d0	ExpertArea4Completee6d0-resources.assets-35939.json	全力でのんびりしようかな。いつまでかは保証しないけどね。
 ExpertArea4Completee7d0	ExpertArea4Completee7d0-resources.assets-35940.json	勝てなかったのは残念だけど、すごく速かったよ、{expert}！
 ExpertArea4Completee8d0	ExpertArea4Completee8d0-resources.assets-35941.json	心配しないで、{medium}。{T4Ex}に敵うとは、もともと思ってなかったから。
@@ -742,7 +742,7 @@ ExpertArea4Race1e5d0	ExpertArea4Race1e5d0-resources.assets-35952.json	ハイ！�
 ExpertArea4Race1e6d0	ExpertArea4Race1e6d0-resources.assets-35953.json	この辺には他のレーサーも居るが...私も含めて、基本的に自分だけでやってる奴らばかりだよ。
 ExpertArea4Race1e7d0	ExpertArea4Race1e7d0-resources.assets-35954.json	自分だけって...他の人とレースしないの!? 全然？
 ExpertArea4Race1e8d0	ExpertArea4Race1e8d0-resources.assets-35955.json	ここの連中が他の何より重視するものは一貫性、安定した走りだ...
-ExpertArea4Race1e8d1	ExpertArea4Race1e8d1-resources.assets-35956.json	私らは耐久イベントが専門でね。一度のミスで勝ちを失うこともある。
+ExpertArea4Race1e8d1	ExpertArea4Race1e8d1-resources.assets-35956.json	私らは耐久イベントが専門なんだ。一度のミスで勝ちを失うこともある。
 ExpertArea4Race1e8d2	ExpertArea4Race1e8d2-resources.assets-35957.json	時にはスキルを競うこともあるが、たとえ形は競争でも、肝心なのは自分の弱さと向き合うことなのさ。
 ExpertArea4Race1e9d0	ExpertArea4Race1e9d0-resources.assets-35958.json	なかなか...過酷そうね...
 ExpertArea4Race1e9d1	ExpertArea4Race1e9d1-resources.assets-35959.json	私たちも、練習したほうが良さそう。
@@ -752,7 +752,7 @@ ExpertArea4Race2e12d0	ExpertArea4Race2e12d0-resources.assets-35962.json	同意�
 ExpertArea4Race2e13d0	ExpertArea4Race2e13d0-resources.assets-35963.json	ダメかな、{T4Ex}？　どうせ走るなら、{expert}を連れて行ってもいいんじゃない？
 ExpertArea4Race2e14d0	ExpertArea4Race2e14d0-resources.assets-35964.json	まあ...ついて来ようとする分には、構わないが。追いつけなくても待ったりしないよ。
 ExpertArea4Race2e15d0	ExpertArea4Race2e15d0-resources.assets-35965.json	ええ、それで十分。
-ExpertArea4Race2e1d0	ExpertArea4Race2e1d0-resources.assets-35966.json	疲れるコースね。全体的に集中しないといけなくて。
+ExpertArea4Race2e1d0	ExpertArea4Race2e1d0-resources.assets-35966.json	疲れるコースだね。全体的に集中しないといけなくて。
 ExpertArea4Race2e2d0	ExpertArea4Race2e2d0-resources.assets-35967.json	そうだ。たとえ小さなミスでも、大きなタイムロスに繋がる可能性がある。
 ExpertArea4Race2e2d1	ExpertArea4Race2e2d1-resources.assets-35968.json	耐久イベントにもなれば、1周のスローラップでイベント自体を落としかねない。
 ExpertArea4Race2e3d0	ExpertArea4Race2e3d0-resources.assets-35969.json	ここは、まぎれもなく試練ってことか。
@@ -765,7 +765,7 @@ ExpertArea4Race2e6d2	ExpertArea4Race2e6d2-resources.assets-35975.json	みんな�
 ExpertArea4Race2e7d0	ExpertArea4Race2e7d0-resources.assets-35976.json	ありがとう{medium}。今あなたが支えてくれるなら、本当にうれしい...
 ExpertArea4Race2e8d0	ExpertArea4Race2e8d0-resources.assets-35977.json	うん...そしたら、次はどうしようか？
 ExpertArea4Race2e9d0	ExpertArea4Race2e9d0-resources.assets-35978.json	どうにもね...もっと練習しなきゃいけないけれど、今どの程度走れているのか、自分で計るのは難しくて。
-ExpertArea4Race3e10d0	ExpertArea4Race3e10d0-resources.assets-35979.json	ふん、私は他人とのレースをそんな風に考えたことはないが...
+ExpertArea4Race3e10d0	ExpertArea4Race3e10d0-resources.assets-35979.json	ふん、私は他人とのレースをそんな風に考えたことはないがね...
 ExpertArea4Race3e10d1	ExpertArea4Race3e10d1-resources.assets-35980.json	いいだろう、承諾する。コースで会おう。
 ExpertArea4Race3e1d0	ExpertArea4Race3e1d0-resources.assets-35981.json	この耐久イベント、あまり上手くいく気がしないよ、{expert}。
 ExpertArea4Race3e1d1	ExpertArea4Race3e1d1-resources.assets-35982.json	君はいつものようにぶっ飛ばしてくれるんだろうけど。
@@ -787,10 +787,10 @@ ExpertArea4Race3e9d1	ExpertArea4Race3e9d1-resources.assets-35997.json	あなた�
 ExpertArea5Completee10d0	ExpertArea5Completee10d0-resources.assets-35998.json	まあ、まだ次があるでしょう。
 ExpertArea5Completee11d0	ExpertArea5Completee11d0-resources.assets-35999.json	ふたりとも、あと少しだったね！　次はきっとレコードタイムだよ。
 ExpertArea5Completee12d0	ExpertArea5Completee12d0-resources.assets-36000.json	僕も今の君たちみたいに頑張れば...その領域に追いつくチャンスはあるのかも、って思ったよ。
-ExpertArea5Completee13d0	ExpertArea5Completee13d0-resources.assets-36001.json	ええ。たとえレコードを破れなくても、私たちみんな、この旅でずっと速くなった！
-ExpertArea5Completee13d1	ExpertArea5Completee13d1-resources.assets-36002.json	それに、私達の歩みはまだ止まらない...
+ExpertArea5Completee13d0	ExpertArea5Completee13d0-resources.assets-36001.json	ええ。たとえレコードを破れなくても、私もみんなも、この旅でずっと速くなった！
+ExpertArea5Completee13d1	ExpertArea5Completee13d1-resources.assets-36002.json	それに、私たちにはまだ先がある...
 ExpertArea5Completee14d0	ExpertArea5Completee14d0-resources.assets-36003.json	次は、そう、サマーグランプリ！
-ExpertArea5Completee15d0	ExpertArea5Completee15d0-resources.assets-36004.json	その通り。言っておくけど、アタシのトロフィーを阻むんだったら、一戦やそこらじゃ終わらせないからね...
+ExpertArea5Completee15d0	ExpertArea5Completee15d0-resources.assets-36004.json	その通り。言っておくけど、アタシのトロフィーを阻むんだったら、一戦やそこらのバトルじゃ終わらせないからね...
 ExpertArea5Completee15d1	ExpertArea5Completee15d1-resources.assets-36005.json	どうなの{expert}、アタシの相手は務められそう？
 ExpertArea5Completee16d0	ExpertArea5Completee16d0-resources.assets-36006.json	それはグランプリで教えてあげる...私も待ちきれないよ。
 ExpertArea5Completee1d0	ExpertArea5Completee1d0-resources.assets-36007.json	ウソ...勝っちゃった！
@@ -800,7 +800,7 @@ ExpertArea5Completee3d0	ExpertArea5Completee3d0-resources.assets-36010.json	今�
 ExpertArea5Completee4d0	ExpertArea5Completee4d0-resources.assets-36011.json	ええ、でもみんなの助けがなかったら、やり遂げられなかった...
 ExpertArea5Completee4d1	ExpertArea5Completee4d1-resources.assets-36012.json	{easy}が私のメンタルを保ってくれなかったら、プレッシャーで潰れてたかも。
 ExpertArea5Completee5d0	ExpertArea5Completee5d0-resources.assets-36013.json	とうとう成し遂げたな、{expert}！
-ExpertArea5Completee5d1	ExpertArea5Completee5d1-resources.assets-36014.json	君の領域に追いつこうとするなら、僕は更にもっと頑張らなきゃいけないみたいだ。
+ExpertArea5Completee5d1	ExpertArea5Completee5d1-resources.assets-36014.json	君の領域に追いつくには、更にもっと頑張らなきゃいけないみたいだ。
 ExpertArea5Completee6d0	ExpertArea5Completee6d0-resources.assets-36015.json	私も頑張るよ。次のレコードホルダーになりたいもんね！
 ExpertArea5Completee7d0	ExpertArea5Completee7d0-resources.assets-36016.json	私だって、これで終わりってわけじゃないよ...
 ExpertArea5Completee8d0	ExpertArea5Completee8d0-resources.assets-36017.json	惜しかった...
@@ -812,7 +812,7 @@ ExpertArea5Race1e2d0	ExpertArea5Race1e2d0-resources.assets-36022.json	そのこ�
 ExpertArea5Race1e2d1	ExpertArea5Race1e2d1-resources.assets-36023.json	あなたの方はどうなの？　旅の始めの頃は、自分でレコードを取るって宣言してたじゃない。
 ExpertArea5Race1e3d0	ExpertArea5Race1e3d0-resources.assets-36024.json	思ってたよりも上手く行かなかったから...望みは薄いかな。
 ExpertArea5Race1e3d1	ExpertArea5Race1e3d1-resources.assets-36025.json	今はとりあえず、コースに集中してどんなタイムを出せるか見てみるよ。案外運が向くかもしれない。
-ExpertArea5Race1e4d0	ExpertArea5Race1e4d0-resources.assets-36026.json	それで、あんたのレコードはどうしたのさ？　まさか怖気づいて、アタシにレコードを献上する気じゃないでしょうね。
+ExpertArea5Race1e4d0	ExpertArea5Race1e4d0-resources.assets-36026.json	それで、あんたのレコードはどうしたの？　まさか怖気づいて、アタシにレコードを献上する気じゃないでしょうね。
 ExpertArea5Race1e5d0	ExpertArea5Race1e5d0-resources.assets-36027.json	はあ、そんな自信が私にもあればね...
 ExpertArea5Race1e5d1	ExpertArea5Race1e5d1-resources.assets-36028.json	とはいえ、ギブアップしただなんて思わないでよ。
 ExpertArea5Race1e6d0	ExpertArea5Race1e6d0-resources.assets-36029.json	アタシだってやれるかどうかの確信なんて無いさ。こんなこと、他の誰にも言うつもりはないけどね。
@@ -821,8 +821,8 @@ ExpertArea5Race1e8d0	ExpertArea5Race1e8d0-resources.assets-36031.json	惜しか�
 ExpertArea5Race1e8d1	ExpertArea5Race1e8d1-resources.assets-36032.json	あの時のゴーストレコード、実はまだ持ってるんだ。良かったらチェックしてみる？
 ExpertArea5Race2e1d0	ExpertArea5Race2e1d0-resources.assets-36033.json	いつタイムアタックするの、{expert}？　絶対見逃せないよ！
 ExpertArea5Race2e2d0	ExpertArea5Race2e2d0-resources.assets-36034.json	まだだね...このコースには、ミスしやすいポイントがかなり多くて。
-ExpertArea5Race2e2d1	ExpertArea5Race2e2d1-resources.assets-36035.json	レコードを破りたいのはやまやまだけど、最後までノーミスのクリーンランを通すには、もう少し練習が必要なの。
-ExpertArea5Race2e3d0	ExpertArea5Race2e3d0-resources.assets-36036.json	ああ。ちょっと外に膨らむと、簡単にダートに突っ込んじゃうからね。そしたらデカいタイムロスだ。
+ExpertArea5Race2e2d1	ExpertArea5Race2e2d1-resources.assets-36035.json	レコードを破りたいのはやまやまだけど、最後までノーミスのクリーンランを通すには、もう少し練習が必要だと思う。
+ExpertArea5Race2e3d0	ExpertArea5Race2e3d0-resources.assets-36036.json	ああ。ちょっと外に膨らむと、簡単にダートに突っ込んじゃうからね。そしたらデカいタイムロスになる。
 ExpertArea5Race2e4d0	ExpertArea5Race2e4d0-resources.assets-36037.json	{expert}が勝ちたいのは分かってるけど、攻めすぎてもミスが増えるだけなんだよね...
 ExpertArea5Race2e4d1	ExpertArea5Race2e4d1-resources.assets-36038.json	最後までミスなく走るためには、もう少し安全なドライビングがいいってことかな？
 ExpertArea5Race2e5d0	ExpertArea5Race2e5d0-resources.assets-36039.json	とてもいい発想ね、{medium}...いつの間にか、こんなに成長しちゃって。
@@ -831,7 +831,7 @@ ExpertArea5Race2e5d2	ExpertArea5Race2e5d2-resources.assets-36041.json	{easy}、�
 ExpertArea5Race2e6d0	ExpertArea5Race2e6d0-resources.assets-36042.json	それなら、ちょうどいいのはコースの中間あたりのセクションだな。
 ExpertArea5Race2e6d1	ExpertArea5Race2e6d1-resources.assets-36043.json	オレも一緒に走りてえけど、他にやんなきゃいけねえことがあってよ...
 ExpertArea5Race2e6d2	ExpertArea5Race2e6d2-resources.assets-36044.json	{t3ex}と一緒に行きなよ。あんたら二人とも、息抜きしていい頃だぜ。
-ExpertArea5Race2e7d0	ExpertArea5Race2e7d0-resources.assets-36045.json	いいね、乗ったよ！　ここでスタイルランなんて思いもよらなかったけど、面白そうだ。
+ExpertArea5Race2e7d0	ExpertArea5Race2e7d0-resources.assets-36045.json	いいね、乗ったよ！　ここでスタイルランなんて思いもよらなかったけど、楽しそうだ。
 ExpertArea5Race2e8d0	ExpertArea5Race2e8d0-resources.assets-36046.json	よし、じゃあ行きましょ！
 ExpertArea5Race3e10d0	ExpertArea5Race3e10d0-resources.assets-36047.json	たとえ今勝てなくても、ここまでの長い道程を来た僕らだ。グランプリではもっと強くなってるに違いない。
 ExpertArea5Race3e11d0	ExpertArea5Race3e11d0-resources.assets-36048.json	そうだよ！　頑張ってね、{expert}！　信じてるよ。
@@ -840,14 +840,14 @@ ExpertArea5Race3e1d1	ExpertArea5Race3e1d1-resources.assets-36050.json	いっそ�
 ExpertArea5Race3e2d0	ExpertArea5Race3e2d0-resources.assets-36051.json	タイムトライアルでそういう走り方は、普通はしないけど...
 ExpertArea5Race3e2d1	ExpertArea5Race3e2d1-resources.assets-36052.json	見るぶんにはエキサイティングになるし、気にする人はいないでしょうね。
 ExpertArea5Race3e3d0	ExpertArea5Race3e3d0-resources.assets-36053.json	それじゃあ、やってくれる？
-ExpertArea5Race3e4d0	ExpertArea5Race3e4d0-resources.assets-36054.json	もう少し練習ラップを走りたいな。その後なら、是非やりましょ。
+ExpertArea5Race3e4d0	ExpertArea5Race3e4d0-resources.assets-36054.json	もう少し練習ラップを走りたいな。その後なら、是非やりましょう。
 ExpertArea5Race3e5d0	ExpertArea5Race3e5d0-resources.assets-36055.json	やったね！　どっちが最速か、はっきりさせようじゃないか！
 ExpertArea5Race3e5d1	ExpertArea5Race3e5d1-resources.assets-36056.json	じゃ、次のレースでね...
 ExpertArea5Race3e6d0	ExpertArea5Race3e6d0-resources.assets-36057.json	{T3Ex}とレースすることになったの？
 ExpertArea5Race3e6d1	ExpertArea5Race3e6d1-resources.assets-36058.json	またワクワクしてきちゃうよ。
 ExpertArea5Race3e7d0	ExpertArea5Race3e7d0-resources.assets-36059.json	{expert}、どんな感じだい？
 ExpertArea5Race3e8d0	ExpertArea5Race3e8d0-resources.assets-36060.json	緊張はあるけど...私も、緊張よりもずっとワクワクしてる！
-ExpertArea5Race3e8d1	ExpertArea5Race3e8d1-resources.assets-36061.json	私が結果を出せるか、ついに確かめる時が来たんだ。
+ExpertArea5Race3e8d1	ExpertArea5Race3e8d1-resources.assets-36061.json	私が結果を出せるか、ついに確かめる時が来た。
 ExpertArea5Race3e9d0	ExpertArea5Race3e9d0-resources.assets-36062.json	あれだけ頑張ってきたんだ。あんたならブッちぎってやれるさ！
 HardArea1Completee1d0	HardArea1Completee1d0-resources.assets-36063.json	よくやってる...まだロクに経験のない車にしては、驚くべき走りだ。
 HardArea1Completee2d0	HardArea1Completee2d0-resources.assets-36064.json	良いスタートだけど、サマーグランプリでチャンスを掴むには、やることが多いな。
@@ -860,8 +860,8 @@ HardArea1Completee5d0	HardArea1Completee5d0-resources.assets-36070.json	ああ�
 HardArea1Completee5d1	HardArea1Completee5d1-resources.assets-36071.json	誤解しないでくれ。君の可能性を磨く挑戦を否定しているわけじゃない。ただそれを、正しい理由でやっているかは確かめてほしいのさ。
 HardArea1Race1e1d0	HardArea1Race1e1d0-resources.assets-36072.json	僕の新しい足、見た？　ついに本当のパワーを調達できたよ...
 HardArea1Race1e1d1	HardArea1Race1e1d1-resources.assets-36073.json	見てなよ{expert}、こいつですぐに君の速さに追いついてやる。
-HardArea1Race1e2d0	HardArea1Race1e2d0-resources.assets-36074.json	それは楽しみね...
-HardArea1Race1e2d1	HardArea1Race1e2d1-resources.assets-36075.json	ただ、分かってるだろうけど、それだけのパワーがあるとハンドリング特性は驚くほど変わるものよ。
+HardArea1Race1e2d0	HardArea1Race1e2d0-resources.assets-36074.json	それは楽しみ...
+HardArea1Race1e2d1	HardArea1Race1e2d1-resources.assets-36075.json	ただ、分かってるだろうけど、それだけのパワーだとハンドリング特性が驚くほど変わるでしょ。
 HardArea1Race1e2d2	HardArea1Race1e2d2-resources.assets-36076.json	もしよかったら、コースを攻める前にちょっとコツを教えようか？
 HardArea1Race1e3d0	HardArea1Race1e3d0-resources.assets-36077.json	ありがとう。でも今はマジで、ただ走りたいんだ。
 HardArea1Race1e3d1	HardArea1Race1e3d1-resources.assets-36078.json	今までずっとドライビングを頑張ってきた。そのすべてがようやく報われるような...そんな気がするんだよ！
@@ -879,8 +879,8 @@ HardArea1Race2e4d1	HardArea1Race2e4d1-resources.assets-36089.json	君や{T1Ex}�
 HardArea1Race2e5d0	HardArea1Race2e5d0-resources.assets-36090.json	そういうことがあるから、オレは面倒なバカ真面目はやりたくねえのさ。楽しみが全部クソになっちまう。
 HardArea1Race2e5d1	HardArea1Race2e5d1-resources.assets-36091.json	走る奴が楽しけりゃあ、それでいいだろ！
 HardArea1Race2e6d0	HardArea1Race2e6d0-resources.assets-36092.json	楽しく遊ぶより上を求める奴も居るんだよ、{easy}。
-HardArea1Race2e6d1	HardArea1Race2e6d1-resources.assets-36093.json	よし。コースに出て、今度は{T1Ex}のゴーストを見てみよう。こんなに早く諦めることはない！
-HardArea1Race3e1d0	HardArea1Race3e1d0-resources.assets-36094.json	よう{hard}。久しぶり...その新しい車、いいんじゃないか。乗り心地はどうだ？
+HardArea1Race2e6d1	HardArea1Race2e6d1-resources.assets-36093.json	よし。コースに出て、今度は{T1Ex}のゴーストを見てみよう。まだ諦めるには早い！
+HardArea1Race3e1d0	HardArea1Race3e1d0-resources.assets-36094.json	よう{hard}。久しぶり...その新しい車、いいじゃないか。乗り心地はどう？
 HardArea1Race3e2d0	HardArea1Race3e2d0-resources.assets-36095.json	最初は手を焼いてたけどね。だんだんコツが掴めてきたよ。
 HardArea1Race3e3d0	HardArea1Race3e3d0-resources.assets-36096.json	はは、大それたことをするのは相変わらずだな。
 HardArea1Race3e4d0	HardArea1Race3e4d0-resources.assets-36097.json	今の僕でも、あんたには勝てるよ。ご老体。
@@ -909,13 +909,13 @@ HardArea2Race1e6d1	HardArea2Race1e6d1-resources.assets-36119.json	どれか一�
 HardArea2Race1e7d0	HardArea2Race1e7d0-resources.assets-36120.json	なぜブレーキを？　きつくスライドさせるだけでよくないか？
 HardArea2Race1e8d0	HardArea2Race1e8d0-resources.assets-36121.json	少なくとも自信はあるようだが、そんな言葉よりもラップタイムの方が雄弁だ...
 HardArea2Race1e8d1	HardArea2Race1e8d1-resources.assets-36122.json	コースに慣れてきたら、オレのところに来な。度胸試しと行こうじゃないか。
-HardArea2Race1e9d0	HardArea2Race1e9d0-resources.assets-36123.json	いいだろう...僕の{HardCar}なら、簡単にラップタイムを叩き出せる。
+HardArea2Race1e9d0	HardArea2Race1e9d0-resources.assets-36123.json	問題ない...僕の{HardCar}なら、あいつを驚かすラップタイムだって簡単に叩き出せるさ。
 HardArea2Race2e1d0	HardArea2Race2e1d0-resources.assets-36124.json	くそっ！　まだしっくり来ない。
 HardArea2Race2e2d0	HardArea2Race2e2d0-resources.assets-36125.json	何かあったの？
 HardArea2Race2e3d0	HardArea2Race2e3d0-resources.assets-36126.json	このコース、全体がハイスピード・レース仕様に見えたんだけどな？
-HardArea2Race2e3d1	HardArea2Race2e3d1-resources.assets-36127.json	必要十分なパワーはあるはずなのに、それを出し切れてる気がしないんだ。
-HardArea2Race2e4d0	HardArea2Race2e4d0-resources.assets-36128.json	きっとなんとかなるよ。まだコースを覚える時間が足りないだけじゃないかな。
-HardArea2Race2e5d0	HardArea2Race2e5d0-resources.assets-36129.json	コースだけの問題っていうんじゃなくて、もし僕に...うーん、ああ、いや、何でもない...
+HardArea2Race2e3d1	HardArea2Race2e3d1-resources.assets-36127.json	必要十分なパワーがあるはずなのに、それを出し切れてる気がしないんだ。
+HardArea2Race2e4d0	HardArea2Race2e4d0-resources.assets-36128.json	なんとかなるよ。まだコースを覚える時間が足りないだけじゃないかな。
+HardArea2Race2e5d0	HardArea2Race2e5d0-resources.assets-36129.json	コースだけの問題っていうんじゃなくて、もし僕に何か...うーん、いや、何でもない...
 HardArea2Race2e6d0	HardArea2Race2e6d0-resources.assets-36130.json	聞いて{hard}、受け入れにくい話かもしれないけど...
 HardArea2Race2e6d1	HardArea2Race2e6d1-resources.assets-36131.json	もっとブレーキを踏んでいく必要があると思う。
 HardArea2Race2e7d0	HardArea2Race2e7d0-resources.assets-36132.json	えっ、マジか？
@@ -945,7 +945,7 @@ HardArea3Completee6d2	HardArea3Completee6d2-resources.assets-36155.json	さて�
 HardArea3Race1e1d0	HardArea3Race1e1d0-resources.assets-36156.json	皆さん、山へようこそ！
 HardArea3Race1e1d1	HardArea3Race1e1d1-resources.assets-36157.json	いい車だねえ...{HardCar}か。話に聞いたことはあるが、実物を見るのは初めてだ。
 HardArea3Race1e2d0	HardArea3Race1e2d0-resources.assets-36158.json	こいつは猛獣だよ...パワーに関しては、並ぶものはない。
-HardArea3Race1e3d0	HardArea3Race1e3d0-resources.assets-36159.json	素晴らしいね...まあその車が、この山での最適解かは分からんがね。
+HardArea3Race1e3d0	HardArea3Race1e3d0-resources.assets-36159.json	素晴らしい...まあその車が、この山での最適解かは分からんがね。
 HardArea3Race1e3d1	HardArea3Race1e3d1-resources.assets-36160.json	そいつのフルパワーが相手でも、私の{T3HCar}ならば、ダウンヒルで君を軽々とパスするに違いない。
 HardArea3Race1e4d0	HardArea3Race1e4d0-resources.assets-36161.json	本気なのか？　{T3HCar}で？　勝ち目なんかないだろう。
 HardArea3Race1e5d0	HardArea3Race1e5d0-resources.assets-36162.json	ふむ、確信があるならスタートラインで会おうじゃないか。私の勝ち目のなさを証明してみたまえ。
@@ -965,7 +965,7 @@ HardArea3Race2e3d0	HardArea3Race2e3d0-resources.assets-36175.json	その車、�
 HardArea3Race2e4d0	HardArea3Race2e4d0-resources.assets-36176.json	いやあ、オフロード性能のためにちょっと手を入れているくらいさ...
 HardArea3Race2e4d1	HardArea3Race2e4d1-resources.assets-36177.json	これはレースだ。レースとは状況に合わせてするものだよ！
 HardArea3Race2e5d0	HardArea3Race2e5d0-resources.assets-36178.json	君の言う通りだったみたいだ。慎重になるべきだった。
-HardArea3Race2e6d0	HardArea3Race2e6d0-resources.assets-36179.json	我慢が苦手なのは知ってるけど。少しの準備が、長い目で見れば近道にもなるの。
+HardArea3Race2e6d0	HardArea3Race2e6d0-resources.assets-36179.json	我慢が苦手なのは知ってるけど。少しの準備は、長い目で見れば近道にもなるでしょ。
 HardArea3Race2e7d0	HardArea3Race2e7d0-resources.assets-36180.json	分かってる、分かってるよ...
 HardArea3Race2e7d1	HardArea3Race2e7d1-resources.assets-36181.json	でも、どうやってあいつを倒せばいいわけ？　雪を何もないみたいにショートカットしてる相手だぞ！　僕は沈んでくだけだ。
 HardArea3Race2e8d0	HardArea3Race2e8d0-resources.assets-36182.json	たぶん、ちょっと新しい視点が必要ね...
@@ -974,7 +974,7 @@ HardArea3Race2e9d0	HardArea3Race2e9d0-resources.assets-36184.json	ああ！　�
 HardArea3Race3e1d0	HardArea3Race3e1d0-resources.assets-36185.json	分かってきたぞ！　コースの序盤の開けたセクション、奴はあそこでショートカットできる...
 HardArea3Race3e1d1	HardArea3Race3e1d1-resources.assets-36186.json	だが、コースを下るとタイトな急旋回に差しかかる。そこでは加速で上回る僕の車のほうが強いんだ。
 HardArea3Race3e2d0	HardArea3Race3e2d0-resources.assets-36187.json	つまり彼は、前半のほうが有利だと知っていた...
-HardArea3Race3e2d1	HardArea3Race3e2d1-resources.assets-36188.json	だからデュエル・ルールを選んだのね。ゴール前で{hard}に追いつかれるリスクを冒したくなかった。
+HardArea3Race3e2d1	HardArea3Race3e2d1-resources.assets-36188.json	だからデュエル・ルールを選んだわけね。ゴール前で{hard}に追いつかれるリスクを冒したくなかった。
 HardArea3Race3e3d0	HardArea3Race3e3d0-resources.assets-36189.json	ああ、そうに違いない！
 HardArea3Race3e3d1	HardArea3Race3e3d1-resources.assets-36190.json	厳しい戦いだけど、一本勝負のレース・ルールなら僕にも勝てるはずだ。
 HardArea3Race3e4d0	HardArea3Race3e4d0-resources.assets-36191.json	また来たのか!?　そんなガッツがあるとはねえ。
@@ -988,17 +988,17 @@ HardArea4Completee1d0	HardArea4Completee1d0-resources.assets-36198.json	なん�
 HardArea4Completee2d0	HardArea4Completee2d0-resources.assets-36199.json	今回はラッキーがあったと思うけど、練習が報われたのは嬉しいよ。
 HardArea4Completee2d1	HardArea4Completee2d1-resources.assets-36200.json	ジェイのゴールしたところは見てなかったな。ゴールドタイムは取れた？
 HardArea4Completee3d0	HardArea4Completee3d0-resources.assets-36201.json	いや、残念ながら取れなかった。だが満足してるよ...
-HardArea4Completee3d1	HardArea4Completee3d1-resources.assets-36202.json	これからもチャンスは多いだろうしな。
+HardArea4Completee3d1	HardArea4Completee3d1-resources.assets-36202.json	これからもチャンスは多いだろう。
 HardArea4Completee4d0	HardArea4Completee4d0-resources.assets-36203.json	フー、厳しい戦いだった！　あんたもよくやったよ、自分を褒めてやりな。
 HardArea4Completee5d0	HardArea4Completee5d0-resources.assets-36204.json	踏ん張り切れなかったけど...全力は出せたし、満足してるよ。
 HardArea4Completee5d1	HardArea4Completee5d1-resources.assets-36205.json	ジェイはゴールドタイム、取れた？
 HardArea4Completee6d0	HardArea4Completee6d0-resources.assets-36206.json	オレも惜しかった。だがまあ、あんたと同じ気持ちさ...
-HardArea4Completee6d1	HardArea4Completee6d1-resources.assets-36207.json	お互い、これからも上達のチャンスは多いだろうしな。
+HardArea4Completee6d1	HardArea4Completee6d1-resources.assets-36207.json	お互い、これからも上達のチャンスは多いだろう。
 HardArea4Completee7d0	HardArea4Completee7d0-resources.assets-36208.json	また会えてよかったよ、{hard}。
 HardArea4Completee7d1	HardArea4Completee7d1-resources.assets-36209.json	サマーグランプリでの再戦を楽しみにしてるぜ。
 HardArea4Race1e1d0	HardArea4Race1e1d0-resources.assets-36210.json	おう、{hard}、わが友よ！
 HardArea4Race1e1d1	HardArea4Race1e1d1-resources.assets-36211.json	あんたが居るとは驚いたよ。虎の穴に飛び込むようなもんじゃないか。
-HardArea4Race1e2d0	HardArea4Race1e2d0-resources.assets-36212.json	どういう意味だい？　こっちは正直、同じ目的の人があまり居なくて面食らってるんだけど。
+HardArea4Race1e2d0	HardArea4Race1e2d0-resources.assets-36212.json	どういう意味？　こっちは正直、同じ目的の人があまり居なくて面食らってるんだけど。
 HardArea4Race1e3d0	HardArea4Race1e3d0-resources.assets-36213.json	{Track4}は、おそらく全コースの中で最もテクニカルだ。
 HardArea4Race1e3d1	HardArea4Race1e3d1-resources.assets-36214.json	ここのドライバーは一貫した安定性を重視する...どんなミスでも、耐久イベントには命取りだからな。
 HardArea4Race1e3d2	HardArea4Race1e3d2-resources.assets-36215.json	ここは、そんなガチのレーサーとカジュアルなレーサーをふるいにかける場所なのさ。
@@ -1012,11 +1012,11 @@ HardArea4Race1e7d0	HardArea4Race1e7d0-resources.assets-36222.json	できると�
 HardArea4Race1e8d0	HardArea4Race1e8d0-resources.assets-36223.json	ありがとう。そうするよ。
 HardArea4Race2e1d0	HardArea4Race2e1d0-resources.assets-36224.json	大丈夫、{Hard}？　ストレス溜めてるみたい。
 HardArea4Race2e2d0	HardArea4Race2e2d0-resources.assets-36225.json	このコースがね...今までずっと努力してきたから、今年は僕の年だなんて思ってたけど...
-HardArea4Race2e2d1	HardArea4Race2e2d1-resources.assets-36226.json	これは今まで以上に、ただ辛い。
+HardArea4Race2e2d1	HardArea4Race2e2d1-resources.assets-36226.json	ここは今まで以上に、ただ辛い。
 HardArea4Race2e3d0	HardArea4Race2e3d0-resources.assets-36227.json	あなただけじゃない...みんな苦労してるよ、{hard}。でもみんながお互い助け合って――
 HardArea4Race2e4d0	HardArea4Race2e4d0-resources.assets-36228.json	君とは違う！　君たちにはたくさんの才能と、たくさんの伸びしろがある...
-HardArea4Race2e4d1	HardArea4Race2e4d1-resources.assets-36229.json	僕はひょっとしたら、もう底まで出し尽くしちまったんじゃないのか？
-HardArea4Race2e4d2	HardArea4Race2e4d2-resources.assets-36230.json	いや、何というか...コースの理屈は分かるよ。ジェイのゴーストを追ってるからね...
+HardArea4Race2e4d1	HardArea4Race2e4d1-resources.assets-36229.json	僕がもし底まで出し尽くしちまったら、その後はどうすればいいんだ？
+HardArea4Race2e4d2	HardArea4Race2e4d2-resources.assets-36230.json	...いや、何というか...コースの理屈は分かるよ。{T2H}のゴーストを追ってるからね...
 HardArea4Race2e4d3	HardArea4Race2e4d3-resources.assets-36231.json	ブレーキをタップするみたいに軽く踏んで、車のバランスを不安定にしてやるんだ。それで車体後部が急旋回してくれる。
 HardArea4Race2e4d4	HardArea4Race2e4d4-resources.assets-36232.json	だったら、それを重要なポイントでブレなく実践するのが、どうしてこんなに難しいんだ？
 HardArea4Race2e5d0	HardArea4Race2e5d0-resources.assets-36233.json	でも、ミスするかもって心配したって、そんなことで止まれないでしょ。
@@ -1025,7 +1025,7 @@ HardArea4Race2e6d1	HardArea4Race2e6d1-resources.assets-36235.json	しかし、�
 HardArea4Race3e1d0	HardArea4Race3e1d0-resources.assets-36236.json	間もなく耐久イベントだな...練習はどうだ？
 HardArea4Race3e2d0	HardArea4Race3e2d0-resources.assets-36237.json	良いラップは取れてる。でも特にヘアピンで小さなミスが出やすいな...
 HardArea4Race3e2d1	HardArea4Race3e2d1-resources.assets-36238.json	できる限りのことはするけど、どうなるにせよ結果は覚悟してる。
-HardArea4Race3e3d0	HardArea4Race3e3d0-resources.assets-36239.json	備えが足りないと感じるなら、焦っちゃいかん...必要なだけ時間をかけろ。
+HardArea4Race3e3d0	HardArea4Race3e3d0-resources.assets-36239.json	備えが足りないと感じるなら、焦っちゃいかん...必要なだけ時間をかけな。
 HardArea4Race3e3d1	HardArea4Race3e3d1-resources.assets-36240.json	準備が整ったら教えてくれ。一緒にイベントを走ろうじゃないか。
 HardArea5Completee1d0	HardArea5Completee1d0-resources.assets-36241.json	悪くないわね{hard}。ええ、全然いい...
 HardArea5Completee2d0	HardArea5Completee2d0-resources.assets-36242.json	僕は直線での有利があったけど、君のコーナーの処理から見習うべきことがあるな。
@@ -1100,9 +1100,9 @@ MediumArea1Race3e1d0	MediumArea1Race3e1d0-resources.assets-36310.json	わあ、{
 MediumArea1Race3e1d1	MediumArea1Race3e1d1-resources.assets-36311.json	頂上に左右に振れるセクションがあるでしょ？　あんなに難しかったのに、{expert}はほとんど曲がらずに通り抜けちゃった。
 MediumArea1Race3e2d0	MediumArea1Race3e2d0-resources.assets-36312.json	ベストラップじゃないけどね。数をこなせばもっと速くできるよ。
 MediumArea1Race3e3d0	MediumArea1Race3e3d0-resources.assets-36313.json	ええっ!?　今だってすごく速いのに！
-MediumArea1Race3e3d1	MediumArea1Race3e3d1-resources.assets-36314.json	色々とありがとう...コーリーとのレースに自信がついたよ。
+MediumArea1Race3e3d1	MediumArea1Race3e3d1-resources.assets-36314.json	色々とありがとう...{T1M}とのレースに自信がついたよ。
 MediumArea1Race3e4d0	MediumArea1Race3e4d0-resources.assets-36315.json	役に立てたならよかった...
-MediumArea1Race3e4d1	MediumArea1Race3e4d1-resources.assets-36316.json	だけど覚えておいて。レースに勝つには、他のレーサーのマネだけじゃだめよ。
+MediumArea1Race3e4d1	MediumArea1Race3e4d1-resources.assets-36316.json	だけど覚えておいて。レースに勝つには、他のレーサーのマネだけじゃダメだからね。
 MediumArea1Race3e5d0	MediumArea1Race3e5d0-resources.assets-36317.json	ねえ、{T1M}...あなたのゴーストタイムで練習してきたんだ。レースに付き合ってくれない？
 MediumArea1Race3e6d0	MediumArea1Race3e6d0-resources.assets-36318.json	いいね！　喜んで！
 MediumArea1Race3e6d1	MediumArea1Race3e6d1-resources.assets-36319.json	この辺りには普段、僕と競える人が居ないんだ。自分で相手を探すのも難しくて...
@@ -1114,7 +1114,7 @@ MediumArea2Completee1d3	MediumArea2Completee1d3-resources.assets-36324.json	だ�
 MediumArea2Completee1d4	MediumArea2Completee1d4-resources.assets-36325.json	本当に成長するには、君自身の道筋を見つけることだ。
 MediumArea2Completee2d0	MediumArea2Completee2d0-resources.assets-36326.json	{T2M}は何を言いたかったんだろう...
 MediumArea2Completee2d1	MediumArea2Completee2d1-resources.assets-36327.json	もしコーナーを最速で曲がりたいとして、その「道筋」が大切ってことかな？
-MediumArea2Completee3d0	MediumArea2Completee3d0-resources.assets-36328.json	ちょっと覚えておいてほしいのは、車にはそれぞれバランスがあって、そのバランスが最速を決めるってことね。
+MediumArea2Completee3d0	MediumArea2Completee3d0-resources.assets-36328.json	覚えておきたいのは、車にはそれぞれバランスがあって、そのバランスが最速を決めるってことね。
 MediumArea2Completee3d1	MediumArea2Completee3d1-resources.assets-36329.json	バランスと最速...これは他のレーサーを見るだけで理解できるとは限らないから、自分で試してみないと。
 MediumArea2Completee4d0	MediumArea2Completee4d0-resources.assets-36330.json	うーん、なるほどね...
 MediumArea2Completee4d1	MediumArea2Completee4d1-resources.assets-36331.json	私にはまだ、どうすればいいか...
@@ -1152,7 +1152,7 @@ MediumArea2Race2e8d0	MediumArea2Race2e8d0-resources.assets-36362.json	{hard}、�
 MediumArea2Race2e9d0	MediumArea2Race2e9d0-resources.assets-36363.json	{medium}がコースの取り組みで詰まってるんだ。コツを教えてあげられないか？
 MediumArea2Race3e10d0	MediumArea2Race3e10d0-resources.assets-36364.json	ああ...このラインは絶対的な最速じゃないだろうな。だが否定できないことが一つある...
 MediumArea2Race3e10d1	MediumArea2Race3e10d1-resources.assets-36365.json	こっちのほうがエキサイティングだ！
-MediumArea2Race3e10d2	MediumArea2Race3e10d2-resources.assets-36366.json	おっ、{medium}。ようやくレースの準備ができたか？
+MediumArea2Race3e10d2	MediumArea2Race3e10d2-resources.assets-36366.json	おっ、{medium}。やっと準備できたかい？
 MediumArea2Race3e11d0	MediumArea2Race3e11d0-resources.assets-36367.json	うん、だいたいはね...ジェイから教わったこと、実践できると思う。
 MediumArea2Race3e12d0	MediumArea2Race3e12d0-resources.assets-36368.json	よし！　面白くなりそうだ...行こうぜ！
 MediumArea2Race3e13d0	MediumArea2Race3e13d0-resources.assets-36369.json	ああ...うーん...レース頑張ってな、{medium}。
@@ -1168,7 +1168,7 @@ MediumArea2Race3e6d2	MediumArea2Race3e6d2-resources.assets-36378.json	ターン�
 MediumArea2Race3e7d0	MediumArea2Race3e7d0-resources.assets-36379.json	あと何周かすれば、目隠ししたって出来るようになるさ。
 MediumArea2Race3e8d0	MediumArea2Race3e8d0-resources.assets-36380.json	なりたいな！
 MediumArea2Race3e9d0	MediumArea2Race3e9d0-resources.assets-36381.json	{T2M}！　わけが分かんねえよ。どうしてお前はそんな風にコーナーに突っ込むんだ？
-MediumArea2Race3e9d1	MediumArea2Race3e9d1-resources.assets-36382.json	おれも素人だけど、直線に近い走り方のほうがいいんじゃないのか？
+MediumArea2Race3e9d1	MediumArea2Race3e9d1-resources.assets-36382.json	おれも素人だけど、できるだけ直線に近いライン取りをすべきなのは分かるぜ。
 MediumArea3Completee1d0	MediumArea3Completee1d0-resources.assets-36383.json	結局、力及ばず、ってことか...
 MediumArea3Completee1d1	MediumArea3Completee1d1-resources.assets-36384.json	でも、ここに来てすごく腕が上がったのは確かだ。
 MediumArea3Completee1d2	MediumArea3Completee1d2-resources.assets-36385.json	あと少し努力すれば、次はサマーグランプリで君に挑戦できると思う。
@@ -1183,19 +1183,19 @@ MediumArea3Completee7d1	MediumArea3Completee7d1-resources.assets-36393.json	と�
 MediumArea3Completee8d0	MediumArea3Completee8d0-resources.assets-36394.json	あなたは{easy}から得たインスピレーションを、自分のものにした...
 MediumArea3Completee8d1	MediumArea3Completee8d1-resources.assets-36395.json	この調子なら、あなたはどんどん先に行ける。{hard}と私が追いつくために苦労する日も遠くないよ。
 MediumArea3Race1e10d0	MediumArea3Race1e10d0-resources.assets-36396.json	私を信じて...あなたならできる。動くこと、試すこと、やってみることを恐れないで。
-MediumArea3Race1e1d0	MediumArea3Race1e1d0-resources.assets-36397.json	わあ、奇麗なところだね。
+MediumArea3Race1e1d0	MediumArea3Race1e1d0-resources.assets-36397.json	わあ、すごく綺麗なとこだね。
 MediumArea3Race1e2d0	MediumArea3Race1e2d0-resources.assets-36398.json	でしょ？　澄んだ空気が好きなの。
-MediumArea3Race1e3d0	MediumArea3Race1e3d0-resources.assets-36399.json	でも、道が狭すぎない？　こんなところでレースする人が居るなんて！
+MediumArea3Race1e3d0	MediumArea3Race1e3d0-resources.assets-36399.json	でも道が狭すぎるよ。こんなところでレースする人が居るなんて！
 MediumArea3Race1e4d0	MediumArea3Race1e4d0-resources.assets-36400.json	確かに{Track2}より狭いけど、ターンはずっとゆるいからね。
-MediumArea3Race1e4d1	MediumArea3Race1e4d1-resources.assets-36401.json	完璧なターンインのポイントよりも、適切なバランスを見つけるほうが大切になるの。
-MediumArea3Race1e4d2	MediumArea3Race1e4d2-resources.assets-36402.json	まずは、やってみることね。あなたはもう、必要なことはすべて学んでるはずだから。
+MediumArea3Race1e4d1	MediumArea3Race1e4d1-resources.assets-36401.json	完璧なターンインのポイントよりも、適切なバランスを見つけるほうが大切になる。
+MediumArea3Race1e4d2	MediumArea3Race1e4d2-resources.assets-36402.json	まずは、コースに行くことね。あなたはもう、必要なことはすべて学んでるはずだから。
 MediumArea3Race1e5d0	MediumArea3Race1e5d0-resources.assets-36403.json	私みたいな車の人はいないのかな？　誰かがガイドしてくれると心強いんだけど。
-MediumArea3Race1e6d0	MediumArea3Race1e6d0-resources.assets-36404.json	{T3H}は、{T3HCar}で走ってるけど...
-MediumArea3Race1e6d1	MediumArea3Race1e6d1-resources.assets-36405.json	でもね。ここら辺の奴らのする案内なんてのは、溝へのハマり方だけ！
+MediumArea3Race1e6d0	MediumArea3Race1e6d0-resources.assets-36404.json	{T3H}あたりは{T3HCar}で走ってるけど...
+MediumArea3Race1e6d1	MediumArea3Race1e6d1-resources.assets-36405.json	でもね。ここら辺の連中のする案内なんてものは、溝への落ち方だけ！
 MediumArea3Race1e6d2	MediumArea3Race1e6d2-resources.assets-36406.json	だからガイドじゃなく、まずはあなた自身でこのコースを走ってみるべきだと思う。
-MediumArea3Race1e6d3	MediumArea3Race1e6d3-resources.assets-36407.json	{T2M}も、あなたのスタイルを見つけろって言ってたでしょ？
+MediumArea3Race1e6d3	MediumArea3Race1e6d3-resources.assets-36407.json	{T2M}も、自分のスタイルを見つけろって言ってたでしょ？
 MediumArea3Race1e7d0	MediumArea3Race1e7d0-resources.assets-36408.json	うん...
-MediumArea3Race1e8d0	MediumArea3Race1e8d0-resources.assets-36409.json	よろしい！　思う存分練習走行をして...準備ができたらタイムトライアル。まずはそこからよ。
+MediumArea3Race1e8d0	MediumArea3Race1e8d0-resources.assets-36409.json	よろしい！　思う存分練習走行をして...準備ができたらタイムトライアル。まずはそこからね。
 MediumArea3Race1e9d0	MediumArea3Race1e9d0-resources.assets-36410.json	うん...わかった...
 MediumArea3Race2e10d0	MediumArea3Race2e10d0-resources.assets-36411.json	まさにそれだよ！　壁スレスレを走るからこそポイントが高くなるのさ！
 MediumArea3Race2e10d1	MediumArea3Race2e10d1-resources.assets-36412.json	練習を休みたいってんなら、見せてもいいんだぜ？
@@ -1572,7 +1572,7 @@ DarkMediumRaceDialogueRaceEndWinning1	DarkMediumRaceDialogueRaceEndWinning1-reso
 DarkMediumRaceDialogueRaceEndWinning2	DarkMediumRaceDialogueRaceEndWinning2-resources.assets-36783.json	いいよ、今回は君のものだ。次はやり返してみせる。
 DarkMediumRaceDialogueRaceStart1	DarkMediumRaceDialogueRaceStart1-resources.assets-36784.json	さっさと終わらせよう。丸一日かけてはいられない。
 DarkMediumRaceDialogueRaceStart2	DarkMediumRaceDialogueRaceStart2-resources.assets-36785.json	やると言ったこと、後悔しないでくれよ。
-EdwardRaceDialogueFastSector1	EdwardRaceDialogueFastSector1-resources.assets-36786.json	いいコーナーじゃねえか！　ああ、すごく奇麗だ。
+EdwardRaceDialogueFastSector1	EdwardRaceDialogueFastSector1-resources.assets-36786.json	いいコーナーじゃねえか！　ああ、すごく綺麗だ。
 EdwardRaceDialogueFastSector2	EdwardRaceDialogueFastSector2-resources.assets-36787.json	やるじゃん！　あのセクション、ド派手なドライビングだった。
 EdwardRaceDialogueFastSector3	EdwardRaceDialogueFastSector3-resources.assets-36788.json	すごいセクションだな！
 EdwardRaceDialogueOpponentMistake1	EdwardRaceDialogueOpponentMistake1-resources.assets-36789.json	壁に当たっても遅くはならねえ！　...長いこと遅くはならねえ！
@@ -1582,7 +1582,7 @@ EdwardRaceDialogueOpponentPassing1	EdwardRaceDialogueOpponentPassing1-resources.
 EdwardRaceDialogueOpponentPassing2	EdwardRaceDialogueOpponentPassing2-resources.assets-36793.json	ウォア！　頑張ってついて来い！
 EdwardRaceDialogueOpponentPassing3	EdwardRaceDialogueOpponentPassing3-resources.assets-36794.json	さあさあ、彼がリードを奪っていきます！
 EdwardRaceDialoguePersonalBest1	EdwardRaceDialoguePersonalBest1-resources.assets-36795.json	ワォ！　ぶっ壊れ攻略かよ！
-EdwardRaceDialoguePersonalBest2	EdwardRaceDialoguePersonalBest2-resources.assets-36796.json	ウォア！　速さのさらに上ってやつか!?
+EdwardRaceDialoguePersonalBest2	EdwardRaceDialoguePersonalBest2-resources.assets-36796.json	ウォア！　ますます速くなってくのかよ！
 EdwardRaceDialoguePersonalBest3	EdwardRaceDialoguePersonalBest3-resources.assets-36797.json	やったじゃねえか！　ぶっ飛ばしてんな！
 EdwardRaceDialoguePlayerLosing1	EdwardRaceDialoguePlayerLosing1-resources.assets-36798.json	ああ！　残念。お前だいぶ遅れてるぜ。
 EdwardRaceDialoguePlayerLosing2	EdwardRaceDialoguePlayerLosing2-resources.assets-36799.json	先行の景色ってのは、いいもんだな。
@@ -1755,7 +1755,7 @@ LucasRaceDialogueRaceEndLosing3	LucasRaceDialogueRaceEndLosing3-resources.assets
 LucasRaceDialogueRaceStart1	LucasRaceDialogueRaceStart1-resources.assets-36966.json	さて、どんな展開になるかな？
 LucasRaceDialogueRaceStart2	LucasRaceDialogueRaceStart2-resources.assets-36967.json	補助輪を外す時が来た。
 LucasRaceDialogueRaceStart3	LucasRaceDialogueRaceStart3-resources.assets-36968.json	さっさと済まそうじゃないか！
-RikuRaceDialogueFastSector1	RikuRaceDialogueFastSector1-resources.assets-36969.json	すごい操作だ！　次のラップで試してみよう！
+RikuRaceDialogueFastSector1	RikuRaceDialogueFastSector1-resources.assets-36969.json	すごいな！　次のラップで試してみよう！
 RikuRaceDialogueFastSector2	RikuRaceDialogueFastSector2-resources.assets-36970.json	速い！　だが、俺たちはもっと行けるだろう！
 RikuRaceDialogueFastSector3	RikuRaceDialogueFastSector3-resources.assets-36971.json	気に入ったよ！　素晴らしいアプローチだ！
 RikuRaceDialogueOpponentMistake1	RikuRaceDialogueOpponentMistake1-resources.assets-36972.json	リスクを取らなきゃ報酬は得られない。もっと速く上手くやれるはずだったが。
@@ -1932,7 +1932,7 @@ VivRaceDialoguePlayerWinning3	VivRaceDialoguePlayerWinning3-resources.assets-371
 VivRaceDialogueRaceEndLosing1	VivRaceDialogueRaceEndLosing1-resources.assets-37143.json	今日のところは、勝利宣言してもよさそうね...
 VivRaceDialogueRaceEndLosing2	VivRaceDialogueRaceEndLosing2-resources.assets-37144.json	良いレースだった...ありがとう。
 VivRaceDialogueRaceEndLosing3	VivRaceDialogueRaceEndLosing3-resources.assets-37145.json	楽しかったよ、ありがとう。
-VivRaceDialogueRaceEndWinning1	VivRaceDialogueRaceEndWinning1-resources.assets-37146.json	信じられないくらい、すごいドライビングだった...
+VivRaceDialogueRaceEndWinning1	VivRaceDialogueRaceEndWinning1-resources.assets-37146.json	すごいドライビングだった。信じられない...
 VivRaceDialogueRaceEndWinning2	VivRaceDialogueRaceEndWinning2-resources.assets-37147.json	これは格別ね...見事だった！
 VivRaceDialogueRaceEndWinning3	VivRaceDialogueRaceEndWinning3-resources.assets-37148.json	うん、いいレースだった...
 VivRaceDialogueRaceStart1	VivRaceDialogueRaceStart1-resources.assets-37149.json	楽しんでいきましょう...気楽にね。
@@ -1973,7 +1973,7 @@ ZharaRaceDialogueRaceStart2	ZharaRaceDialogueRaceStart2-resources.assets-37183.j
 ZharaRaceDialogueRaceStart3	ZharaRaceDialogueRaceStart3-resources.assets-37184.json	よーし、発進！
 f3d3ce61-3577-4a6c-945b-3a322f6d3b9c	UpdatePopup3Description-resources.assets-37185.json	新アーケードモード、プレシジョンでテクニックを証明しよう。\nできるだけ多くホロ・コーンに当たり、最高スコアを目指せ。
 fb29d095-3c16-4d3a-85f1-df8848e5de1f	UpdatePopupTitle-resources.assets-37186.json	新規アップデート
-fa3ce1b5-af22-4f42-a427-76a69fb2056c	CombineTutorial-sharedassets1.assets-2091.json	狭いコーナーでは、ドリフトとステアリングを組み合わせよう。
+fa3ce1b5-af22-4f42-a427-76a69fb2056c	CombineTutorial-sharedassets1.assets-2091.json	タイトなコーナーでは、ドリフトとステアリングを組み合わせよう。
 73e5a935-6df2-4abd-95e9-ec440a0cd659	DriftingTutorial-sharedassets1.assets-2092.json	右スティックでドリフトの角度を制御できる。
 9d2fee8e-9ab3-45e4-aeaf-24b75adb7494	DriftingTutorialKeyboard-sharedassets1.assets-2093.json	カーソルキーでドリフトの角度を制御できる。
 9db8d403-7531-4c20-9971-e44ea0288950	LiftOffTutorial-sharedassets1.assets-2094.json	より角度をつけたい時は、ドリフト中にアクセルを離してみよう。
@@ -2073,7 +2073,7 @@ T1EChallengeDialoguee1d0	T1EChallengeDialoguee1d0-sharedassets1.assets-2187.json
 T1EChallengeDialoguee1d1	T1EChallengeDialoguee1d1-sharedassets1.assets-2188.json	ほら、きっと楽しいって！　おまけにウチの車まで運転できるんだよ...
 T1EChallengeDialoguee1d2	T1EChallengeDialoguee1d2-sharedassets1.assets-2189.json	うん、いいね！　それじゃ、腕前を見せてよ。
 T1ExChallengeDialoguee1d0	T1ExChallengeDialoguee1d0-sharedassets1.assets-2190.json	コースで幅広い経験を積む、これは本当に大事なことだよ。
-T1ExChallengeDialoguee1d1	T1ExChallengeDialoguee1d1-sharedassets1.assets-2191.json	僕の車とゴーストを相手にレースすれば、何かヒントが掴めると思う...
+T1ExChallengeDialoguee1d1	T1ExChallengeDialoguee1d1-sharedassets1.assets-2191.json	僕の車でゴーストを相手にレースすれば、何かヒントが掴めると思う...
 T1ExChallengeDialoguee1d2	T1ExChallengeDialoguee1d2-sharedassets1.assets-2192.json	要するに、色々やってみるのは大体いいってことさ。
 T1MChallengeDialoguee1d0	T1MChallengeDialoguee1d0-sharedassets1.assets-2193.json	このコースに苦戦しててね。どうすればいいやら...
 T1MChallengeDialoguee1d1	T1MChallengeDialoguee1d1-sharedassets1.assets-2194.json	そうだ、君。僕の車でここを回ってみてくれないか？　そこからヒントを掴めると思うんだ。
@@ -2228,8 +2228,8 @@ DarkHardRace3e4d0	DarkHardRace3e4d0-sharedassets1.assets-2342.json	私の番み�
 DarkHardRace4e1d0	DarkHardRace4e1d0-sharedassets1.assets-2343.json	悪くはないが、そろそろ遊びは終わりだよ。本気を出す時だ。
 DarkHardRace4e1d1	DarkHardRace4e1d1-sharedassets1.assets-2344.json	すべてを懸けて、誰が真の最強かを決めようじゃないか。
 DarkHardRace4e2d0	DarkHardRace4e2d0-sharedassets1.assets-2345.json	{hard}、あんたが行くか？
-DarkHardRace4e3d0	DarkHardRace4e3d0-sharedassets1.assets-2346.json	当然さ。まさか聞かれるとは思ってなかったよ。
-DarkHardRace5e1d0	DarkHardRace5e1d0-sharedassets1.assets-2347.json	よし！　大したことないな？　このホームでの僕らの優位は揺るがないよ。
+DarkHardRace4e3d0	DarkHardRace4e3d0-sharedassets1.assets-2346.json	もちろん。まさか聞かれるとは思ってなかったよ。
+DarkHardRace5e1d0	DarkHardRace5e1d0-sharedassets1.assets-2347.json	よし！　大したことないな？　これなら、ホームでの僕らの優位は揺るがない。
 DarkHardRace5e2d0	DarkHardRace5e2d0-sharedassets1.assets-2348.json	ファビュラスよ、{hard}！
 DarkHardRace5e3d0	DarkHardRace5e3d0-sharedassets1.assets-2349.json	ぐぐっ、ツキがなかったようだね。
 DarkHardRace5e3d1	DarkHardRace5e3d1-sharedassets1.assets-2350.json	でも、まだ終わってないよ...
@@ -2283,20 +2283,20 @@ DarkMediumRace5e5d0	DarkMediumRace5e5d0-sharedassets1.assets-2397.json	自信満
 DarkMediumRace5e5d1	DarkMediumRace5e5d1-sharedassets1.assets-2398.json	あんたも最高の状態で来なよ。手加減はしない。
 997fa757-29f1-4079-83cd-5e9c0325c8ec	ReplayIntro-997fa757-29f1-4079-83cd-5e9c0325c8ec-sharedassets1.assets-2399.json	イントロをリプレイ\n
 cb8551b3-a701-4c28-96a1-7ea8a71d8f75	Skip-sharedassets2.assets-341.json	スキップ
-IntroSequencee10d0	IntroSequencee10d0-sharedassets2.assets-342.json	今年も{expert}のレースは待ちきれないよ。こんなに速い人は他に居ないし、きっと優勝するよね？
+IntroSequencee10d0	IntroSequencee10d0-sharedassets2.assets-342.json	今年も{expert}のレースが待ちきれないよ。こんなに速い人は他に居ないし、きっと優勝するよね？
 IntroSequencee11d0	IntroSequencee11d0-sharedassets2.assets-343.json	あはは、狙ってみるね...
 IntroSequencee11d1	IntroSequencee11d1-sharedassets2.assets-344.json	みんなはエントリーするの？
 IntroSequencee12d0	IntroSequencee12d0-sharedassets2.assets-345.json	当然！　このチャンスを二度と逃す手はないさ。
-IntroSequencee12d1	IntroSequencee12d1-sharedassets2.assets-346.json	今年は真剣でね。勝つための新しいマシンも納車予定。
-IntroSequencee13d0	IntroSequencee13d0-sharedassets2.assets-347.json	どうしようかな。私って、エントリーできるくらい上手になってると思う？
-IntroSequencee14d0	IntroSequencee14d0-sharedassets2.assets-348.json	もちろん大丈夫よ！　上達へのモチベーションにもすごく良いしね。
+IntroSequencee12d1	IntroSequencee12d1-sharedassets2.assets-346.json	今年は真剣だよ。勝つための新しいマシンも納車予定。
+IntroSequencee13d0	IntroSequencee13d0-sharedassets2.assets-347.json	どうしようかな。私って、エントリーできるくらい上手くなってると思う？
+IntroSequencee14d0	IntroSequencee14d0-sharedassets2.assets-348.json	もちろん大丈夫でしょ！　上達へのモチベーションにもなるしね。
 IntroSequencee14d1	IntroSequencee14d1-sharedassets2.assets-349.json	{easy}はどう？　一緒にやる？
 IntroSequencee15d0	IntroSequencee15d0-sharedassets2.assets-350.json	フン、さあね。向いてねえかな...ドライブは好きだが、ああいうのはストレスが多すぎてな。楽しくねえ。
 IntroSequencee16d0	IntroSequencee16d0-sharedassets2.assets-351.json	グランプリって、色んなコースでやるんでしょ？　みんなでコースを下見しに、ロードトリップしてみるのはどう？
 IntroSequencee16d1	IntroSequencee16d1-sharedassets2.assets-352.json	それなら練習できるし、みんなでドライブもできるよ！
 IntroSequencee17d0	IntroSequencee17d0-sharedassets2.assets-353.json	素晴らしいアイデアね、{medium}。コースにいる他のレーサーの走りを見習えるし、みんなに得るものが多いと思う。
-IntroSequencee18d0	IntroSequencee18d0-sharedassets2.assets-354.json	うーーむ。あのさ、オレはただドライブしたいだけなんだ。別にラインだの、クリッピングだの、ペダルテクニックだのを勉強したいわけじゃないんだよな...
-IntroSequencee19d0	IntroSequencee19d0-sharedassets2.assets-355.json	いいだろ{easy}！　他にどうやって、コースで僕たちと走る時間を作れるんだ？　面倒だと感じてたら、本当に面倒事にしかならなくなっちまうぞ！
+IntroSequencee18d0	IntroSequencee18d0-sharedassets2.assets-354.json	うーーむ。あのさ、オレはただドライブしたいだけなんだ。別にラインだの、クリッピングポイントだの、ペダルテクニックだのを勉強したいわけじゃないんだよな...
+IntroSequencee19d0	IntroSequencee19d0-sharedassets2.assets-355.json	いいだろ{easy}！　他にどうやって、コースで僕たちと走る時間を作れるんだ？　面倒だと感じてたら、本当に面倒事にしかならなくなっちゃうよ！
 IntroSequencee1d0	IntroSequencee1d0-sharedassets2.assets-356.json	飲み物、持ってきたよ！
 IntroSequencee1d1	IntroSequencee1d1-sharedassets2.assets-357.json	えっと、{hard}はアイスコーヒーだったよね...
 IntroSequencee20d0	IntroSequencee20d0-sharedassets2.assets-358.json	考えてみて。いくつもの新しいコースで、友達とドライブできるチャンスってことだよ...
@@ -2305,7 +2305,7 @@ IntroSequencee21d0	IntroSequencee21d0-sharedassets2.assets-360.json	むむむむ
 IntroSequencee22d0	IntroSequencee22d0-sharedassets2.assets-361.json	ええ、それで解決だね。
 IntroSequencee23d0	IntroSequencee23d0-sharedassets2.assets-362.json	やったあ！　ロードトリップ！
 IntroSequencee2d0	IntroSequencee2d0-sharedassets2.assets-363.json	いいね！　ありがとう、{medium}。
-IntroSequencee3d0	IntroSequencee3d0-sharedassets2.assets-364.json	{expert}はピーチアイスティーよね？
+IntroSequencee3d0	IntroSequencee3d0-sharedassets2.assets-364.json	{expert}はピーチアイスティーだよね？
 IntroSequencee4d0	IntroSequencee4d0-sharedassets2.assets-365.json	もちろん！　冷たい飲み物といったらこれが一番！
 IntroSequencee5d0	IntroSequencee5d0-sharedassets2.assets-366.json	お茶以外ならね。お茶だったら私の緑茶がホットもアイスも優勝で...ほら{easy}、あなたにはミルク！
 IntroSequencee6d0	IntroSequencee6d0-sharedassets2.assets-367.json	ゴクッ...ゴクッ...ゴクッ...
@@ -2318,8 +2318,8 @@ IntroSequencee9d1	IntroSequencee9d1-sharedassets2.assets-373.json	もうすぐ�
 TwilightRivalsIntroe1d0	TwilightRivalsIntroe1d0-sharedassets3.assets-12.json	我々はチーム・イクイノックス。君たちへの挑戦者だ。
 TwilightRivalsIntroe1d1	TwilightRivalsIntroe1d1-sharedassets3.assets-13.json	最高のドライバーを集めてこい。今この瞬間、君たちのシーズンは終わり、我々の始まりになるんだからな。
 TwilightRivalsIntroe1d2	TwilightRivalsIntroe1d2-sharedassets3.assets-14.json	ここのレーサー達のことはよく聞いているが、期待に違わぬことを願うよ。
-TwilightRivalsIntroe2d0	TwilightRivalsIntroe2d0-sharedassets3.assets-15.json	納得いかないな...こんな田舎のドライバー達が、俺たちの挑戦を受けられるほどの連中なのか？
-TwilightRivalsIntroe2d1	TwilightRivalsIntroe2d1-sharedassets3.assets-16.json	こんなことのためにシミュレーターを降りたのが、信じられなくなってきたぜ。
+TwilightRivalsIntroe2d0	TwilightRivalsIntroe2d0-sharedassets3.assets-15.json	納得行かないな...こんな田舎のドライバー達が、俺たちの挑戦を受けられるほどの連中なのか？
+TwilightRivalsIntroe2d1	TwilightRivalsIntroe2d1-sharedassets3.assets-16.json	こんなことのためにシミュレーターを降りたのが、信じられなくなってきた。
 TwilightRivalsIntroe3d0	TwilightRivalsIntroe3d0-sharedassets3.assets-17.json	彼らがついてこられるかなんて、僕には関係ない。
 TwilightRivalsIntroe3d1	TwilightRivalsIntroe3d1-sharedassets3.assets-18.json	僕の相手はコースそのものだ。コースを攻略して、ねじ伏せる。
 TwilightRivalsIntroe4d0	TwilightRivalsIntroe4d0-sharedassets3.assets-19.json	ハッ、あんたは道路とやってな！　ここのヘボたちも貧弱なマシンも、アタシがぶっ壊してやるからさ。
