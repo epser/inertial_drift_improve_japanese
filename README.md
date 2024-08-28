@@ -1,4 +1,6 @@
-# Inertial Drift 非公式日本語パッチ
+# Inertial Drift 非公式日本語改善Mod
+
+レースゲーム『Inertial Drift』の日本語翻訳を向上しつつ、フォントの不具合を修正します。
 
 ## 配布物
 
@@ -6,6 +8,12 @@
 - フォントグリフ修正パッチ
 
 修正範囲に応じて2パターンあり、どちらも[リリースページ](https://github.com/epser/inertial_drift_improve_japanese/releases/)からダウンロード可能です。
+
+## 注意事項
+
+!THIS MOD IS UNOFFICIAL!
+
+本Modは非公式です。適用に関する保証は存在しません。万一あなたのプレイ環境やゲーム進行に予期せぬ障害が発生した場合でも、責任はあなたが負ってください。
 
 ## 日本語訳修正のプレビュー
 
