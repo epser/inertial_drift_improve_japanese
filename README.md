@@ -15,12 +15,20 @@
 
 本Modは非公式です。適用に関する保証は存在しません。万一あなたのプレイ環境やゲーム進行に予期せぬ障害が発生した場合でも、責任はあなたが負ってください。
 
-## 日本語訳修正のプレビュー
+## 日本語訳修正時のプレビュー
 
-- 誤訳指摘の抜粋ページ https://eps-r.gitbook.io/inertial_drift
+Before:
+
+![image](https://github.com/user-attachments/assets/f23173d1-187e-4184-bedd-8a4d395066d4)
+
+After:
+
+![image](https://github.com/user-attachments/assets/d173c7b0-0d62-454e-957c-2c8fc137fc43)
+
+- その他UI、誤訳指摘の抜粋ページ https://eps-r.gitbook.io/inertial_drift
   - 指摘に併記している試訳はパッチ内容と異なる場合があります。
 
-## 字体修正のプレビュー
+## 字体のみ修正時のプレビュー
 
 ### グリフ修正: 漢字
 
