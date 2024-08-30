@@ -25,7 +25,7 @@ After:
 
 ![image](https://github.com/user-attachments/assets/d173c7b0-0d62-454e-957c-2c8fc137fc43)
 
-- その他UI、誤訳指摘の抜粋ページ https://eps-r.gitbook.io/inertial_drift
+- その他UI、大きな誤訳などの指摘抜粋 https://eps-r.gitbook.io/inertial_drift
   - 指摘に併記している試訳はパッチ内容と異なる場合があります。
 
 ## 字体のみ修正時のプレビュー
