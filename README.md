@@ -9,11 +9,13 @@
 
 修正範囲に応じて2パターンあり、どちらも[リリースページ](https://github.com/epser/inertial_drift_improve_japanese/releases/)からダウンロード可能です。
 
-## 注意事項
+## 法的注意事項
 
 !THIS MOD IS UNOFFICIAL!
 
 本Modは非公式です。適用に関する保証は存在しません。万一あなたのプレイ環境やゲーム進行への予期せぬ障害、あるいはその他のいかなる損害が発生したとしても、責任はあなた自身で負ってください。
+
+本Modと本Modの制作者はLevel 91 EntertainmentおよびPQube Gamesとは一切無関係であり、同社の著作権や知的財産権その他の権利を侵害する意図は一切ありません。
 
 ## 日本語訳修正時のプレビュー
 
@@ -59,3 +61,10 @@ Before:
 After:
 
 ![image](https://github.com/user-attachments/assets/7276726a-b2d0-4847-8734-57940e23534f)
+
+## Contact
+
+- 稲葉(Inaba):
+  - https://x.com/eps_r
+  - https://eps-r.hatenablog.com
+  - https://docs.google.com/forms/d/e/1FAIpQLSeWbLshXTV8bs8tnRk3Wj-QSU79OA1MKzvHd-IlaSd1cUFzLg/viewform
