@@ -1,0 +1,104 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 2401
+ 1 string m_Name = "SubheadingsAlphabet"
+ 0 LocalisationContainer _fonts
+  1 Array Array (9 items)
+   0 int size = 9
+   [0]
+    0 LocalisationContainer data
+     0 int Language = 1
+     0 PPtr<$TMP_FontAsset> Font
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 34608
+     0 PPtr<$Material> Material
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 298
+   [1]
+    0 LocalisationContainer data
+     0 int Language = 6
+     0 PPtr<$TMP_FontAsset> Font
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 34608
+     0 PPtr<$Material> Material
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 298
+   [2]
+    0 LocalisationContainer data
+     0 int Language = 7
+     0 PPtr<$TMP_FontAsset> Font
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 34618
+     0 PPtr<$Material> Material
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [3]
+    0 LocalisationContainer data
+     0 int Language = 8
+     0 PPtr<$TMP_FontAsset> Font
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 34618
+     0 PPtr<$Material> Material
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [4]
+    0 LocalisationContainer data
+     0 int Language = 2
+     0 PPtr<$TMP_FontAsset> Font
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 34611
+     0 PPtr<$Material> Material
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 302
+   [5]
+    0 LocalisationContainer data
+     0 int Language = 3
+     0 PPtr<$TMP_FontAsset> Font
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 34611
+     0 PPtr<$Material> Material
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 302
+   [6]
+    0 LocalisationContainer data
+     0 int Language = 4
+     0 PPtr<$TMP_FontAsset> Font
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 34611
+     0 PPtr<$Material> Material
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 302
+   [7]
+    0 LocalisationContainer data
+     0 int Language = 10
+     0 PPtr<$TMP_FontAsset> Font
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 34616
+     0 PPtr<$Material> Material
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 0
+   [8]
+    0 LocalisationContainer data
+     0 int Language = 9
+     0 PPtr<$TMP_FontAsset> Font
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 34611
+     0 PPtr<$Material> Material
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 302
+ 0 PPtr<$TMP_FontAsset> FallbackFont
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 34611
+ 0 LocalisationContainer Fallback
+  0 int Language = 0
+  0 PPtr<$TMP_FontAsset> Font
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 34612
+  0 PPtr<$Material> Material
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 305

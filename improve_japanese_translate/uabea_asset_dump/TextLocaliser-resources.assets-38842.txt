@@ -1,0 +1,23 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 1601
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1026
+ 1 string m_Name = ""
+ 0 PPtr<$TMP_Text> TextRenderer
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 39180
+ 0 PPtr<$LocalisedString> Text
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 35302
+ 0 PPtr<$LocalisedFont> Font
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 100001
+ 0 PPtr<$ColourPaletteSlot> ColourPalette
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 34711
+ 0 int ColourPaletteTag = 3
+ 0 float Alpha = 1
