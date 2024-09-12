@@ -4,7 +4,7 @@
 
 ## 配布物
 
-- 日本語訳上書き + フォントグリフ修正パッチ
+- フォントグリフ修正 + 日本語訳上書きパッチ
 - フォントグリフ修正パッチ
 
 修正範囲に応じて2パターンあり、どちらも[リリースページ](https://github.com/epser/inertial_drift_improve_japanese/releases/)からダウンロード可能です。
@@ -17,20 +17,7 @@
 
 本Modと本Modの制作者はLevel 91 EntertainmentおよびPQube Gamesとは一切無関係であり、同社の著作権や知的財産権その他の権利を侵害する意図は一切ありません。
 
-## 日本語訳修正時のプレビュー
-
-Before:
-
-![image](https://github.com/user-attachments/assets/f23173d1-187e-4184-bedd-8a4d395066d4)
-
-After:
-
-![image](https://github.com/user-attachments/assets/d173c7b0-0d62-454e-957c-2c8fc137fc43)
-
-- その他UI、大きな誤訳などの指摘抜粋 https://eps-r.gitbook.io/inertial_drift
-  - 指摘に併記している試訳はパッチ内容と異なる場合があります。
-
-## 字体のみ修正時のプレビュー
+## 字体修正のプレビュー
 
 ### グリフ修正: 漢字
 
@@ -46,11 +33,11 @@ After:
 
 Before:
 
-![GULYNvuaAAAj6yN](https://github.com/user-attachments/assets/dd14931c-412b-4ff0-9c80-f3e592c70111)
+![20240831233909](https://github.com/user-attachments/assets/5bc62e88-c781-48f7-8274-fa00a4e0d52a)
 
 After:
 
-![image](https://github.com/user-attachments/assets/68b56919-0af5-43d8-9bee-00482a525dde)
+![20240831233845](https://github.com/user-attachments/assets/2c9706a9-a03e-45bf-aeb8-e79824b3ed6e)
 
 ### グリフ修正: アルファベット（GAME SETTINGSのIとN）
 
@@ -61,6 +48,19 @@ Before:
 After:
 
 ![image](https://github.com/user-attachments/assets/7276726a-b2d0-4847-8734-57940e23534f)
+
+## 日本語訳修正のプレビュー
+
+Before:
+
+![image](https://github.com/user-attachments/assets/f23173d1-187e-4184-bedd-8a4d395066d4)
+
+After:
+
+![image](https://github.com/user-attachments/assets/d173c7b0-0d62-454e-957c-2c8fc137fc43)
+
+- その他UI、大きな誤訳などの指摘抜粋 https://eps-r.gitbook.io/inertial_drift
+  - 指摘に併記している試訳はパッチ内容と異なる場合があります。
 
 ## Contact
 
