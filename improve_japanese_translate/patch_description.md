@@ -1,4 +1,4 @@
-# Inertial Drift Japanese translate improve _YYYY-MM-DD
+# Inertial Drift Japanese localization improvement _YYYY-MM-DD
 
 # 概要
 

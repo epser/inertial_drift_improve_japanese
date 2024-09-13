@@ -1,8 +1,4 @@
 - data/japanese.tsv
   - "ID, Filename, 日本語" 形式のTSV
 - tool/json_overwrite.py
-  - UABEA JSON dumpを操作するためのツール(Python3)。Language resourceのフィルタは各自がんばって
-- uabea_asset_dump/
-  - SubheadingsAlphabet-resources.assets-100001.txt - LocalizedFont型のMonoBehavior(copy from Subheadings-resources.assets-34629)、日本語の参照フォントを英語版に変更している
-  - TextLocaliser-level1-37059.txt - "LOADING ...." とフォントを紐づけるMonoBehavior
-  - TextLocaliser-level1-38842.txt - "LOADING ...." とフォントを紐づけるMonoBehavior
+  - UABEA JSON dumpを操作するためのツール(Python3)。Languageリソースのフィルタは各自がんばって
