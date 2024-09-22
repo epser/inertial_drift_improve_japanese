@@ -4,10 +4,7 @@
 
 ## 配布物
 
-- フォントグリフ修正 + 日本語訳上書きパッチ
-- フォントグリフ修正パッチ
-
-修正範囲に応じて2パターンあり、どちらも[リリースページ](https://github.com/epser/inertial_drift_improve_japanese/releases/)からダウンロード可能です。
+[リリースページ](https://github.com/epser/inertial_drift_improve_japanese/releases/)からダウンロード可能です。
 
 ## 法的注意事項
 
@@ -15,7 +12,9 @@
 
 本Modは非公式です。適用に関する保証は存在しません。万一あなたのプレイ環境やゲーム進行への予期せぬ障害、あるいはその他のいかなる損害が発生したとしても、責任はあなた自身で負ってください。
 
-本Modと本Modの制作者はLevel 91 EntertainmentおよびPQube Gamesとは一切無関係であり、同社の著作権や知的財産権その他の権利を侵害する意図は一切ありません。
+本Modと本Modの制作者はLevel 91 EntertainmentおよびPQube Gamesとは無関係であり、同社の著作権や知的財産権その他の権利を侵害する意図は一切ありません。
+
+（Steam Community Guideへの投稿前に開発者にコンタクトを取った時点においては、差し止めの意向ではないことを確認しています）
 
 ## 字体修正のプレビュー
 
@@ -68,3 +67,5 @@ After:
   - https://x.com/eps_r
   - https://eps-r.hatenablog.com
   - https://docs.google.com/forms/d/e/1FAIpQLSeWbLshXTV8bs8tnRk3Wj-QSU79OA1MKzvHd-IlaSd1cUFzLg/viewform
+
+誤訳や動作についての指摘は[Issue](https://github.com/epser/inertial_drift_improve_japanese/issues)やForkでもかまいません。
