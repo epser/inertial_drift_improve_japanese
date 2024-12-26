@@ -1,5 +1,7 @@
 # Inertial Drift 非公式日本語改善Mod
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/epser/inertial_drift_improve_japanese/total)
+
 レースゲーム『Inertial Drift』の日本語翻訳を向上しつつ、フォントの不具合を修正します。
 
 ## 配布物
